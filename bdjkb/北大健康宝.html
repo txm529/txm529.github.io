@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<!-- saved from url=(0068)https://yanyuan.pku.edu.cn/site/epidehealth/masterqrcode?door_id=707 -->
+<html><script id="allow-copy_script">(function agent() {
+    let unlock = false
+    document.addEventListener('allow_copy', (event) => {
+      unlock = event.detail.unlock
+    })
+
+    const copyEvents = [
+      'copy',
+      'cut',
+      'contextmenu',
+      'selectstart',
+      'mousedown',
+      'mouseup',
+      'mousemove',
+      'keydown',
+      'keypress',
+      'keyup',
+    ]
+    const rejectOtherHandlers = (e) => {
+      if (unlock) {
+        e.stopPropagation()
+        if (e.stopImmediatePropagation) e.stopImmediatePropagation()
+      }
+    }
+    copyEvents.forEach((evt) => {
+      document.documentElement.addEventListener(evt, rejectOtherHandlers, {
+        capture: true,
+      })
+    })
+  })()</script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="renderer" content="webkit"><meta http-equiv="X-UA-Compatible" content="IE=EDGE"><title>北大健康宝</title><style>body {
+			-webkit-text-size-adjust: 100% !important;
+		}
+		html,
+		body,
+		div,
+		span,
+		applet,
+		object,
+		iframe,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p,
+		blockquote,
+		pre,
+		a,
+		abbr,
+		acronym,
+		address,
+		big,
+		cite,
+		code,
+		del,
+		dfn,
+		em,
+		font,
+		img,
+		ins,
+		kbd,
+		q,
+		s,
+		samp,
+		small,
+		strike,
+		strong,
+		sub,
+		sup,
+		tt,
+		var,
+		b,
+		u,
+		i,
+		center,
+		dl,
+		dt,
+		dd,
+		ol,
+		ul,
+		li,
+		fieldset,
+		form,
+		label,
+		legend,
+		table,
+		caption,
+		tbody,
+		tfoot,
+		thead,
+		tr,
+		th,
+		td,
+		article,
+		aside,
+		canvas,
+		details,
+		embed,
+		figure,
+		figcaption,
+		footer,
+		header,
+		hgroup,
+		menu,
+		nav,
+		output,
+		ruby,
+		section,
+		summary,
+		time,
+		mark,
+		audio,
+		video,
+		button,
+		input,
+		textarea {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+
+		header,
+		footer,
+		section,
+		article,
+		aside,
+		nav,
+		hgroup,
+		address,
+		figure,
+		figcaption,
+		menu,
+		details {
+			display: block;
+		}
+
+		table {
+			border-collapse: collapse;
+			border-spacing: 0;
+		}
+
+		caption,
+		th {
+			font-weight: normal;
+		}
+
+		html,
+		body,
+		fieldset,
+		img,
+		iframe,
+		abbr {
+			border: 0;
+		}
+
+		i,
+		cite,
+		em,
+		var,
+		address,
+		dfn {
+			font-style: normal;
+		}
+
+		[hidefocus],
+		summary {
+			outline: 0;
+		}
+
+		li {
+			list-style: none;
+		}
+
+		pre,
+		code,
+		kbd,
+		samp {
+			font-family: inherit;
+		}
+
+		q:before,
+		q:after {
+			content: none;
+		}
+
+		body,
+		textarea,
+		input,
+		button,
+		select,
+		keygen,
+		legend {
+			color: #333;
+			outline: 0;
+			font-family: PingFang-SC-Medium, 'microsoft yahei', sans-serif;
+		}
+
+		input,
+		textarea {
+			-webkit-appearance: none;
+			border: none;
+			outline: none;
+			background: none;
+			-webkit-tap-highlight-color: rgba(255, 0, 0, 0);
+		}
+
+		textarea {
+			overflow: auto;
+			resize: none;
+		}
+
+		a,
+		button {
+			display: block;
+			background: none;
+			border: none;
+		}
+
+		a {
+			-webkit-tap-highlight-color: rgba(255, 0, 0, 0);
+			outline: none;
+			text-decoration: none;
+		}
+
+		img {
+			display: block;
+		}
+		.fram-alert {
+			position: fixed;
+			left: 50%;
+			bottom: 0;
+			transform: translate(-50%, 0%);
+			top: 0;
+			background: rgba(49, 49, 49, 0.8);
+			z-index: 1000;
+		}
+
+		.fram-alert>div {
+			background: #fff;
+			color: #333;
+			font-size: 13px;
+			position: fixed;
+			top: 200px;
+			left: 50%;
+			border-radius: 2px;
+			transform: translate(-50%, 0);
+			opacity: 1;
+			transition: all 1s ease;
+			z-index: 999;
+			width: calc(100% - 80px);
+		}
+
+		.fram-alert>div p {
+			height: 86px;
+			margin: 0 20px;
+		}
+
+		.fram-alert>div p span {
+			display: block;
+			color: #333;
+			height: 43px;
+			line-height: 60px;
+		}
+
+		.fram-alert>div p span {
+			height: 100%;
+			line-height: 86px;
+		}
+
+		.fram-alert>div a {
+			display: block;
+			margin: 0 20px;
+			height: 36px;
+			line-height: 36px;
+			text-align: center;
+			color: #fff;
+			font-size: 14px;
+			border-radius: 2px;
+			margin-bottom: 23px;
+			background: #4285f4;
+
+		}
+
+		html {
+			background: #eee;
+		}
+
+		@media (max-width: 768px) {
+			body>div:first-child {
+				max-width: 768px;
+				margin: 0 auto;
+			}
+		}
+
+		@media (min-width: 769px) {
+			body {
+				margin: 0 auto !important;
+			}
+
+			body>div:first-child {
+				width: 100%;
+			}
+		}
+
+		#__vconsole {
+			font-size: 12px !important;
+		}
+
+		.page-load>div,
+		.file-pop>div {
+			min-width: 150px;
+			text-align: center;
+			min-height: 123px;
+			line-height: 123px;
+			background: rgba(51, 51, 51, 0.7);
+			color: #fff;
+			font-size: 15px;
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			border-radius: 5px;
+			-webkit-transform: translate(-50%, -50%);
+			transform: translate(-50%, -50%);
+			opacity: 1;
+			z-index: 999;
+			max-width: 250px;
+			word-break: break-all;
+		}
+
+		.page-load>div img,
+		.file-pop>div img {
+			width: 55px;
+			height: 55px;
+			margin: 19px auto 10px;
+		}
+
+		.page-load>div p,
+		.file-pop>div p {
+			color: #fff;
+			font-size: 14px;
+			min-height: 14px;
+			line-height: 14px;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+			padding: 0 10px;
+		}
+
+		.glable-nodata {
+			margin-top: 0 !important;
+			padding-top: 100px;
+			box-sizing: border-box;
+			text-align: center;
+		}
+
+		.glable-nodata img {
+			width: 200px;
+			height: 200px;
+			margin: 0 auto;
+		}
+
+		.glable-nodata p {
+			color: #878787;
+			font-size: 14px;
+			min-height: 14px;
+			line-height: 14px;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+			padding: 0 10px;
+		}
+
+		html {
+			/*filter:grayscale(100%);*/
+		}</style><link rel="stylesheet" type="text/css" href="./北大健康宝_files/iconfont.css"><link href="./北大健康宝_files/app.336053b7c28735f2e5a031f02c01b6f1.css" rel="stylesheet"><link data-id="b7cccad5ea2d0ab2ba887ca65cd8f81d" href="./北大健康宝_files/pku.main.css" rel="stylesheet" type="text/css"><script type="text/javascript" charset="utf-8" async="" src="./北大健康宝_files/0.46633b66bfb4ceaf2f3c.js"></script><script type="text/javascript" charset="utf-8" async="" src="./北大健康宝_files/645.6b0aeb0a38d1bd6781f0.js"></script><style type="text/css">.cyxy-trs-target.colored {
+  background-color: rgba(0, 185, 119, 0.05);
+}
+
+.cyxy-target-popup {
+  padding: 1.3rem 12px;
+  position: absolute;
+  display: -webkit-flex;
+  display: inline-flex;
+  flex-direction: row;
+  overflow: scroll;
+  vertical-align: middle;
+  z-index: 199099;
+  top: 1px;
+  left: 1px;
+  background: #fff;
+  opacity: 0.98;
+  /*margin: 0px 5%;*/
+  height: auto;
+  width: auto;
+  border: 1px solid #e6e6e6;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.13);
+  border-radius: 5px;
+  /*height: 7rem;*/
+}
+
+@media (max-width: 468px) {
+  .cyxy-target-popup {
+    /*width: 90%;*/
+    /*margin: 0px 5%;*/
+    left: 10%;
+    /*right: 5%;*/
+    /*width: 30rem;*/
+    /*height: 14.58rem;*/
+  }
+}
+
+#cyxy-popup-left-slide {
+  height: 22px;
+  display: inline;
+  vertical-align: middle;
+  margin-right: 14px;
+  cursor: pointer;
+}
+
+#cyxy-popup-right-slide {
+  height: 22px;
+  display: inline;
+  vertical-align: middle;
+  margin-left: 0px;
+  cursor: pointer;
+}
+
+#cyxy-popup-userinfo {
+  display: inline;
+}
+
+.cyxy-target-count {
+  display: inline;
+  vertical-align: middle;
+  font-size: 10px;
+}
+
+#cyxy-popup-avatar {
+  /*margin-right: 30px;*/
+  /*font-size: 14px;*/
+  display: inline;
+  height: 32px;
+  vertical-align: middle;
+  border-radius: 16px;
+}
+
+#cyxy-popup-name-time {
+  display: -webkit-flex;
+  display: inline-flex;
+  flex-direction: column;
+  /*align-items: center;*/
+  /*position: relative;*/
+  vertical-align: middle;
+  text-align: left;
+  margin-left: 6px;
+}
+
+#cyxy-popup-name {
+  /*vertical-align: middle;*/
+  /*display: flex;*/
+  font-size: 14px;
+  color: #333;
+  height: 18px;
+  overflow: hidden;
+  max-width: 84px;
+}
+
+#cyxy-popup-time {
+  /*margin-right: 30px;*/
+  /*font-size: 14px;*/
+  /*display: flex;*/
+  font-size: 12px;
+  margin-top: 4px;
+  color: #999;
+}
+
+.cyxy-footer {
+  display: none;
+  position: fixed;
+  bottom: 0px;
+  padding: 0px 0px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  opacity: 0.9;
+  border: 1px solid #e6e6e6;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.13);
+  border-radius: 2px;
+  z-index: 201712;
+  text-align: center;
+}
+
+.cyxy-footer-p {
+  padding: 12px 0px;
+  margin: 0px;
+  font-size: 12px;
+  color: #333;
+  background: #fff;
+  text-align: center;
+  line-height: 1.6;
+  font-weight: 200;
+}
+
+#cyxy-popup-favour {
+  text-align: center;
+  display: inline;
+  margin-right: 20px;
+  margin-left: 46px;
+  cursor: pointer;
+}
+
+#cyxy-popup-favour.commit {
+  /*padding: 2px 6px;*/
+  /*border: 1px solid #00B977;*/
+  /*border-radius: 4px;*/
+}
+
+#cyxy-popup-oppose {
+  text-align: center;
+  display: inline;
+  cursor: pointer;
+}
+
+#cyxy-popup-favour-img {
+  display: inline;
+  height: 20px;
+  /*width: 22px;*/
+  vertical-align: middle;
+}
+
+#cyxy-popup-favour-img.commit {
+  /*height: 22px;*/
+  /*vertical-align: middle;*/
+}
+
+#cyxy-popup-oppose-img {
+  display: inline;
+  height: 18px;
+  vertical-align: middle;
+}
+
+#cyxy-popup-favour-num {
+  font-size: 14px;
+  margin-left: 4px;
+  /*margin-left: 0.47rem;*/
+  color: #999999;
+}
+
+#cyxy-popup-oppose-num {
+  font-size: 14px;
+  margin-left: 4px;
+  /*margin-left: 0.47rem;*/
+  color: #999;
+}
+
+.caption-window.ytp-caption-window-bottom {
+  width: 800px;
+  /* height: 100px; */
+  /* margin-left: -400px; */
+}
+
+@media (max-width: 320px) {
+  #cyxy-popup-favour {
+    margin-right: 0.8rem;
+    margin-left: 1.5rem;
+  }
+
+  #cyxy-popup-left-slide {
+    margin-right: 0.8rem;
+  }
+
+  #cyxy-popup-right-slide {
+    margin-left: 1rem;
+  }
+}
+
+.login-hint-a {
+  display: block;
+  color: #999;
+  font-size: 10px;
+}
+
+.login-hint-a:visited {
+  color: #999;
+}
+
+.layui-m-layer {
+  color: #333;
+  position: relative;
+  z-index: 2147483647;
+}
+
+.layui-m-layer * {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+.layui-m-layermain,
+.layui-m-layershade {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.layui-m-layershade {
+  background-color: rgba(0, 0, 0, 0.7);
+  pointer-events: auto;
+}
+
+.layui-m-layermain {
+  display: table;
+  font-family: Helvetica, arial, sans-serif;
+  pointer-events: none;
+}
+
+.layui-m-layermain .layui-m-layersection {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.layui-m-layerchild {
+  position: relative;
+  display: inline-block;
+  text-align: left;
+  background-color: #fff;
+  font-size: 14px;
+  border-radius: 5px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  pointer-events: auto;
+  -webkit-overflow-scrolling: touch;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-duration: 0.2s;
+  animation-duration: 0.2s;
+}
+
+@-webkit-keyframes layui-m-anim-scale {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+@keyframes layui-m-anim-scale {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+.layui-m-anim-scale {
+  animation-name: layui-m-anim-scale;
+  -webkit-animation-name: layui-m-anim-scale;
+}
+
+@-webkit-keyframes layui-m-anim-up {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(800px);
+    transform: translateY(800px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+@keyframes layui-m-anim-up {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(800px);
+    transform: translateY(800px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+.layui-m-anim-up {
+  -webkit-animation-name: layui-m-anim-up;
+  animation-name: layui-m-anim-up;
+}
+
+.layui-m-layer0 .layui-m-layerchild {
+  width: 90%;
+  max-width: 640px;
+}
+
+.layui-m-layer1 .layui-m-layerchild {
+  border: none;
+  border-radius: 0;
+}
+
+.layui-m-layer2 .layui-m-layerchild {
+  width: auto;
+  max-width: 260px;
+  min-width: 40px;
+  border: none;
+  background: 0 0;
+  box-shadow: none;
+  color: #fff;
+}
+
+.layui-m-layerchild h3 {
+  padding: 0 10px;
+  height: 60px;
+  line-height: 60px;
+  font-size: 16px;
+  font-weight: 400;
+  border-radius: 5px 5px 0 0;
+  text-align: center;
+}
+
+.layui-m-layerbtn span,
+.layui-m-layerchild h3 {
+  margin: 0;
+  padding: 0;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.layui-m-layercont {
+  padding: 50px 30px;
+  line-height: 22px;
+  text-align: center;
+}
+
+.layui-m-layer1 .layui-m-layercont {
+  padding: 0;
+  text-align: left;
+}
+
+.layui-m-layer2 .layui-m-layercont {
+  text-align: center;
+  padding: 0;
+  line-height: 0;
+}
+
+.layui-m-layer2 .layui-m-layercont i {
+  width: 25px;
+  height: 25px;
+  margin-left: 8px;
+  display: inline-block;
+  background-color: #fff;
+  border-radius: 100%;
+  -webkit-animation: layui-m-anim-loading 1.4s infinite ease-in-out;
+  animation: layui-m-anim-loading 1.4s infinite ease-in-out;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+.layui-m-layerbtn,
+.layui-m-layerbtn span {
+  position: relative;
+  text-align: center;
+  border-radius: 0 0 5px 5px;
+}
+
+.layui-m-layer2 .layui-m-layercont p {
+  margin-top: 20px;
+}
+
+@-webkit-keyframes layui-m-anim-loading {
+  0%,
+  100%,
+  80% {
+    transform: scale(0);
+    -webkit-transform: scale(0);
+  }
+  40% {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+  }
+}
+
+@keyframes layui-m-anim-loading {
+  0%,
+  100%,
+  80% {
+    transform: scale(0);
+    -webkit-transform: scale(0);
+  }
+  40% {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+  }
+}
+
+.layui-m-layer2 .layui-m-layercont i:first-child {
+  margin-left: 0;
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+
+.layui-m-layer2 .layui-m-layercont i.layui-m-layerload {
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+
+.layui-m-layer2 .layui-m-layercont > div {
+  line-height: 22px;
+  padding-top: 7px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.layui-m-layerbtn {
+  display: box;
+  display: -moz-box;
+  display: -webkit-box;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  font-size: 0;
+  border-top: 1px solid #d0d0d0;
+  background-color: #f2f2f2;
+}
+
+.layui-m-layerbtn span {
+  display: block;
+  -moz-box-flex: 1;
+  box-flex: 1;
+  -webkit-box-flex: 1;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.layui-m-layerbtn span[yes] {
+  color: #40affe;
+}
+
+.layui-m-layerbtn span[no] {
+  border-right: 1px solid #d0d0d0;
+  border-radius: 0 0 0 5px;
+}
+
+.layui-m-layerbtn span:active {
+  background-color: #f6f6f6;
+}
+
+.layui-m-layerend {
+  position: absolute;
+  right: 7px;
+  top: 10px;
+  width: 30px;
+  height: 30px;
+  border: 0;
+  font-weight: 400;
+  background: 0 0;
+  cursor: pointer;
+  -webkit-appearance: none;
+  font-size: 30px;
+}
+
+.layui-m-layerend::after,
+.layui-m-layerend::before {
+  position: absolute;
+  left: 5px;
+  top: 15px;
+  content: "";
+  width: 18px;
+  height: 1px;
+  background-color: #999;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  border-radius: 3px;
+}
+
+.layui-m-layerend::after {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.layui-m-layer .layui-m-layer-footer {
+  position: fixed;
+  width: 95%;
+  max-width: 100%;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  bottom: 10px;
+  background: 0 0;
+}
+
+.layui-m-layer-footer .layui-m-layercont {
+  padding: 20px;
+  border-radius: 5px 5px 0 0;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.layui-m-layer-footer .layui-m-layerbtn {
+  display: block;
+  height: auto;
+  background: 0 0;
+  border-top: none;
+}
+
+.layui-m-layer-footer .layui-m-layerbtn span {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.layui-m-layer-footer .layui-m-layerbtn span[no] {
+  color: #fd482c;
+  border-top: 1px solid #c2c2c2;
+  border-radius: 0 0 5px 5px;
+}
+
+.layui-m-layer-footer .layui-m-layerbtn span[yes] {
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.layui-m-layer .layui-m-layer-msg {
+  width: auto;
+  max-width: 90%;
+  margin: 0 auto;
+  bottom: -150px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+}
+
+.layui-m-layer-msg .layui-m-layercont {
+  padding: 10px 20px;
+}
+
+.collection-success {
+  /*opacity: 0.6;*/
+  /*background: #EAEAEA;*/
+  color: #ffffff;
+}
+.collection-success:hover {
+  /*opacity: 0.45;*/
+  /*background: #000000;*/
+  color: #ffffff;
+}
+.layui-m-layercont .cyxy-trs-target {
+  display: none;
+}
+.collection-icon {
+  width: 12px;
+  height: 13px;
+  background: url("//staging.caiyunapp.com/imgs/layar-target.png") no-repeat;
+  display: inline-block;
+  background-size: cover;
+  background-position: center;
+}
+.collection-success > a {
+  margin-left: 12px;
+  vertical-align: middle;
+}
+.cy_free_box {
+  position: relative;
+}
+.cy_free_box img {
+  width: 100%;
+  cursor: pointer;
+  -moz-user-select: none; /*火狐*/
+  -webkit-user-select: none; /*webkit浏览器*/
+  -ms-user-select: none; /*IE10*/
+  -khtml-user-select: none; /*早期浏览器*/
+  user-select: none;
+}
+.layui-m-layer-cy_free_content {
+  background: inherit !important;
+}
+</style><link type="image/png" href="https://imgapp.pku.edu.cn/image/0/86e562b6ad44f487d876e5e0f1d37a5d.png" rel="shortcut icon"></head><body style="width: 675px;"><div data-v-32478853="" class="odm_extension image_downloader_wrapper" style="display: block;"><!----></div><div class="puknewQrcode"><div><div class="epide_outer"><div class="logo"><span>北大健康码</span></div></div> <div class="content mastercontent has_title"><div class="location_tit"><div class="qrcode-wrap master"><div class="title-master"><img src="./北大健康宝_files/log.png" alt=""> <span>2022年12月08日 14:06:18</span></div> <div class="nocode-wrap"><img src="./北大健康宝_files/border2.gif" alt="" class="border" title="" style="outline: red dashed 1px;"> <img src="./北大健康宝_files/head.jpg" alt="" class="photo"></div> <p class="green state"><img src="./北大健康宝_files/right.png" alt=""> <span class="">未见异常</span> <!----></p> <ul class="user-info flex"><li><span>数学科学学院&nbsp;&nbsp;唐熙勐</span></li> <li><span>190***754</span></li></ul> <ul class="user-info flex"><li><span>位置：</span> <span>邱德拔体育馆西门</span></li> <li style="display: none;"><span style="color: rgb(94, 191, 66);">℃</span></li></ul></div> <div class="jkb-wrap jkb-status-wrap"><div class="jkb-status-wrap-line"></div> <div class="jkb-status-wrap-top green"><div class="jkb-status-wrap-top-title">
+                健康宝状态：
+                <span>绿色</span></div> <!----></div> <div class="jkb-status-sh-wrap"><div class="jkb-status-sh-wrap-div"><div class="sh"><div class="jkb-status-sh-wrap-div-top">
+                    核酸检测结果
+                  </div> <div class="jkb-status-sh-wrap-div-bottom"><!----> <!----> <div class="jkb-status-sh-wrap-div-bottom-blue"><span class="firs">阴性</span><em>1</em><span>天</span></div></div></div></div> <div class="jkb-status-sh-wrap-div"><div class="ym"><div class="jkb-status-sh-wrap-div-top">
+                    疫苗接种情况 <i class="icon iconfont icon-you"></i></div> <div class="jkb-status-sh-wrap-div-bottom"><div class="jkb-status-sh-wrap-div-bottom-blue"><span>已接种</span><em>3</em><span>针</span></div></div></div></div></div></div> <div class="jkb-wrap tw"><div class="fl"><span>体温登记</span> <span style="display: block; margin-top: 10px;">核酸检测</span></div> <div><span class="">我的体温</span></div> <div><span class="">出入楼扫码</span></div></div> <!----> <div class="jkb-wrap"><div class="fl"><img src="./北大健康宝_files/crxba.png"></div> <div class="fr"><span>出入校备案</span> <span>点击前往出入校备案</span></div></div> <div class="jkb-wrap"><div class="fl"><img src="./北大健康宝_files/jkb.png"></div> <div class="fr"><span>北京健康宝</span> <span>长按可以识别并打开健康宝</span></div></div> <div class="jkb-wrap"><div class="fl"><img src="./北大健康宝_files/face.png"></div> <div class="fr"><span>北大人脸采集</span> <span>长按可以识别并打开北大人脸采集</span></div></div></div></div> <!----> <!----> <!----></div> <!----> <!----> <div data-v-31a26b30="" class="g-pop" appkey="healthcode" style="width: 675px; display: none;"><div data-v-31a26b30="" class="pophint"><img data-v-31a26b30="" src="./北大健康宝_files/load.gif" alt=""> <p data-v-31a26b30=""></p></div></div> <!----></div><script>if (window.location.href.indexOf("debug=1") !== -1) {
+			var jsScript = document.createElement("script");
+			jsScript.src = "/site/static/js/vconsole.min.js";
+			jsScript.type = "text/javascript";
+			jsScript.async = false;
+			jsScript.onload = function () {
+
+				var vConsole = new VConsole();
+			};
+			document.getElementsByTagName("body")[0].appendChild(jsScript);
+		}</script><script type="text/javascript" src="./北大健康宝_files/manifest.ea74b33f726d148becb3.js"></script><script type="text/javascript" src="./北大健康宝_files/vendor.66a006f125a94423bb71.js"></script><script type="text/javascript" src="./北大健康宝_files/app.83c549b238cbd6e17dc9.js"></script><div tabindex="-1" role="dialog" aria-hidden="true" class="pswp"><div class="pswp__bg"></div> <div class="pswp__scroll-wrap"><div class="pswp__container"><div class="pswp__item"></div> <div class="pswp__item"></div> <div class="pswp__item"></div></div> <div class="pswp__ui pswp__ui--hidden"><div class="pswp__top-bar"><div class="pswp__counter"></div> <button title="Close (Esc)" class="pswp__button pswp__button--close"></button> <button title="Share" class="pswp__button pswp__button--share"></button> <button title="Toggle fullscreen" class="pswp__button pswp__button--fs"></button> <button title="Zoom in/out" class="pswp__button pswp__button--zoom"></button> <div class="pswp__preloader"><div class="pswp__preloader__icn"><div class="pswp__preloader__cut"><div class="pswp__preloader__donut"></div></div></div></div></div> <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap"><div class="pswp__share-tooltip"></div></div> <button title="Previous (arrow left)" class="pswp__button pswp__button--arrow--left"></button> <button title="Next (arrow right)" class="pswp__button pswp__button--arrow--right"></button> <div class="pswp__caption"><div class="pswp__caption__center"></div></div></div></div></div><div id="progress_loading" style="display: none;"><div style="width: 0%;"></div></div><script src="./北大健康宝_files/qrcode.js" data-id="818b2b126e093ed30fbfd084ca96ee02" type="text/javascript"></script><script src="./北大健康宝_files/normal_socket.js" data-id="5f1eef2689e7c8a0ee70a98fdf1c374b" type="text/javascript"></script><script src="./北大健康宝_files/md5.js"></script><script src="./北大健康宝_files/getscript.js"></script><script type="text/javascript">(function () {
+		function IEVersion() {
+			var userAgent = navigator.userAgent; //取得浏览器的userAgent字符串
+			var isIE = userAgent.indexOf("compatible") > -1 && userAgent.indexOf("MSIE") > -1; //判断是否IE<11浏览器
+			var isEdge = userAgent.indexOf("Edge") > -1 && !isIE; //判断是否IE的Edge浏览器
+			var isIE11 = userAgent.indexOf('Trident') > -1 && userAgent.indexOf("rv:11.0") > -1;
+			if (isIE) {
+				var reIE = new RegExp("MSIE (\\d+\\.\\d+);");
+				reIE.test(userAgent);
+				var fIEVersion = parseFloat(RegExp["$1"]);
+				if (fIEVersion == 7) {
+					return 7;
+				} else if (fIEVersion == 8) {
+					return 8;
+				} else if (fIEVersion == 9) {
+					return 9;
+				} else if (fIEVersion == 10) {
+					return 10;
+				} else {
+					return 6;//IE版本<=7
+				}
+			} else if (isEdge) {
+				return 'edge';//edge
+			} else if (isIE11) {
+				return 11; //IE11
+			} else {
+				return false;//不是ie浏览器
+			}
+		}
+		if (IEVersion() && IEVersion() != 'edge') {
+			if (window.location.href.indexOf('leaveshoolsq') > -1) {
+				document.body.innerHTML = '<div style="font-size: 20px;text-align: center;margin: 300px auto;">为了更好的浏览效果，请您使用较新版本的Chrome、Firefox、Safari进行访问</div>'
+			}
+		}
+		if (typeof WeixinJSBridge == "object" && typeof WeixinJSBridge.invoke == "function") {
+			handleFontSize();
+		} else {
+			if (document.addEventListener) {
+				document.addEventListener("WeixinJSBridgeReady", handleFontSize, false);
+			} else if (document.attachEvent) {
+				document.attachEvent("WeixinJSBridgeReady", handleFontSize);
+				document.attachEvent("onWeixinJSBridgeReady", handleFontSize);
+			}
+		}
+		function handleFontSize() {
+			WeixinJSBridge.invoke('setFontSizeCallback', { 'fontSize': 0 });
+			WeixinJSBridge.on('menu:setfont', function () {
+				WeixinJSBridge.invoke('setFontSizeCallback', { 'fontSize': 0 });
+			});
+		}
+	})();</script></body><style>.q1lywv9tsefewq {transform:none !important;background-attachment:scroll !important;background-color:transparent !important;background-image:none !important;bottom:auto !important;clear:none !important;clip:auto !important;color:inherit !important;counter-increment:none !important;counter-reset:none !important;cursor:auto !important;direction:inherit !important;display:inline !important;float:none !important;font-family:inherit !important;font-size:inherit !important;font-style:inherit !important;font-weight:inherit !important;height:auto !important;left:auto !important;letter-spacing:normal !important;line-height:inherit !important;list-style-type:inherit !important;list-style-position:outside !important;list-style-image:none !important;max-height:none !important;max-width:none !important;min-height:0px !important;min-width:0px !important;opacity:1 !important;position:static !important;quotes:"" "" !important;right:auto !important;table-layout:auto !important;text-align:inherit !important;text-indent:0px !important;text-transform:none !important;top:auto !important;unicode-bidi:normal !important;vertical-align:baseline !important;visibility:inherit !important;white-space:normal !important;width:auto !important;word-spacing:normal !important;z-index:auto !important;background-origin:padding-box !important;background-clip:border-box !important;background-size:auto !important;box-shadow:none !important;box-sizing:content-box !important;column-count:auto !important;column-gap:normal !important;column-width:auto !important;font-feature-settings:normal !important;overflow-x:visible !important;overflow-y:visible !important;hyphens:manual !important;perspective:none !important;perspective-origin:50% 50% !important;backface-visibility:visible !important;text-shadow:none !important;transform-origin:50% 50% !important;transform-style:flat !important;word-break:normal !important;background-position:0px 0px !important;background-repeat:repeat !important;border-color:transparent !important;border-style:none !important;border-width:0px !important;font-variant:normal !important;margin:0px !important;padding:0px !important;text-decoration:inherit !important;border-image:none 100% / 1 / 0 stretch !important;border-radius:0px !important;column-rule:medium none rgb(0, 0, 0) !important;transition:all 0s ease 0s !important;}</style><div class="q1lywv9tsefewq"></div><div style="padding: 0px; margin: 3px 3px 20px; background: padding-box padding-box rgb(248, 248, 255); border: 3px solid rgba(242, 242, 242, 0.6); border-radius: 2px; box-shadow: rgb(102, 102, 102) 0px 0px 2px; visibility: visible; display: none; z-index: 2147483647; inset: 46px auto auto 158px; width: 0px; height: 0px; position: fixed !important; box-sizing: content-box !important; max-width: none !important; max-height: none !important;"><img alt="" style="display: block; background: none; position: relative; width: 100%; height: 100%; max-width: inherit; max-height: inherit; margin: 0px; padding: 0px; border: 0px; visibility: inherit !important; image-orientation: initial !important;"><video poster="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" autoplay="" style="display: none; background: none; position: relative; width: 100%; height: 100%; max-width: inherit; max-height: inherit; margin: 0px; padding: 0px; border: 0px; box-shadow: rgb(241, 101, 41) 0px 0px 0px 1px; visibility: inherit !important;" class="md-dghgahobnabjdjkmlebkkoabogenjjpo"></video><div style="left: 0px; right: auto; display: none; cursor: default; position: absolute; width: auto; height: auto; border: 0px; white-space: nowrap; font: 13px / 1.4em &quot;Trebuchet MS&quot;, sans-serif; box-shadow: rgb(221, 221, 221) 0px 0px 1px inset; padding: 0px 4px; border-radius: 3px; background: rgba(0, 0, 0, 0.75) !important; color: rgb(255, 255, 255) !important; top: -18px;"><b style="display: none; transition: background-color 0.1s ease 0s; border-radius: 3px; padding: 0px 2px;"></b> <b style="display: none;"></b> <span style="color: inherit; display: inline;"></span></div></div><img alt="" draggable="false" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOng9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWluWU1pbiBub25lIj48Zz48cGF0aCBpZD0icCIgZD0iTTMzIDQyYTEgMSAwIDAgMSA1NS0yMCAzNiAzNiAwIDAgMC01NSAyMCIvPjx1c2UgeDpocmVmPSIjcCIgdHJhbnNmb3JtPSJyb3RhdGUoNzIgNTAgNTApIi8+PHVzZSB4OmhyZWY9IiNwIiB0cmFuc2Zvcm09InJvdGF0ZSgxNDQgNTAgNTApIi8+PHVzZSB4OmhyZWY9IiNwIiB0cmFuc2Zvcm09InJvdGF0ZSgyMTYgNTAgNTApIi8+PHVzZSB4OmhyZWY9IiNwIiB0cmFuc2Zvcm09InJvdGF0ZSgyODggNTAgNTApIi8+PGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIHZhbHVlcz0iMzYwIDUwIDUwOzAgNTAgNTAiIGR1cj0iMS44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L2c+PC9zdmc+" style="padding: 5px; background-clip: padding-box; width: 38px; height: 38px; z-index: 2147483647; display: none; inset: auto; margin: 0px; transition: background-color 0.5s ease 0s, opacity 0.2s ease 0s, top 0.15s ease-out 0s, left 0.15s ease-out 0s; border-radius: 50% !important; box-shadow: rgb(166, 166, 166) 0px 0px 5px 1px !important; position: fixed !important; box-sizing: border-box !important; opacity: 0;"></html>
