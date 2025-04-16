@@ -1,0 +1,1207 @@
+BEGIN:VCALENDAR
+
+VERSION:2.0
+
+PRODID:ics.py - http://git.io/lLljaA
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Exports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/exports-yoy
+
+DTEND:20250712T040000Z
+
+DTSTART:20250712T030000Z
+
+SUMMARY:CHINA - Exports YoY
+
+UID:102b3f92-dfa9-43f7-b671-4c2bb59bc6a7@102b.org
+
+URL:/china/exports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Caixin Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/manufacturing-pmi
+
+DTEND:20251103T024500Z
+
+DTSTART:20251103T014500Z
+
+SUMMARY:CHINA - Caixin Manufacturing PMI
+
+UID:15ca2299-0ff6-407c-8603-2049e5792c64@15ca.org
+
+URL:/china/manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Exports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/exports-yoy
+
+DTEND:20250607T040000Z
+
+DTSTART:20250607T030000Z
+
+SUMMARY:CHINA - Exports YoY
+
+UID:a6ff9c0f-d1e2-4879-9b9c-055858463c9d@a6ff.org
+
+URL:/china/exports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales YoY\n国家: china\n实际值: 5.9%\n前值: 4%\n预期: 4.2%\n预测: 4.4%\n详情: /china/retail-sales-annual
+
+DTEND:20250416T030000Z
+
+DTSTART:20250416T020000Z
+
+SUMMARY:CHINA - Retail Sales YoY
+
+UID:7696ec61-41b4-4034-9dad-72525841fff9@7696.org
+
+URL:/china/retail-sales-annual
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Caixin Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/manufacturing-pmi
+
+DTEND:20250603T024500Z
+
+DTSTART:20250603T014500Z
+
+SUMMARY:CHINA - Caixin Manufacturing PMI
+
+UID:d50606c0-04f0-4399-b46d-6eda167ee1f9@d506.org
+
+URL:/china/manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Balance of Trade\n国家: china\n实际值: \n前值: \n预期: \n预测: $ 110B\n详情: /china/balance-of-trade
+
+DTEND:20250712T040000Z
+
+DTSTART:20250712T030000Z
+
+SUMMARY:CHINA - Balance of Trade
+
+UID:a484c344-4b06-4e27-a43d-ce0977a61691@a484.org
+
+URL:/china/balance-of-trade
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: 1%\n详情: /china/inflation-cpi
+
+DTEND:20251015T023000Z
+
+DTSTART:20251015T013000Z
+
+SUMMARY:CHINA - Inflation Rate YoY
+
+UID:8303efc4-09eb-41e0-982a-bbe533f5bd88@8303.org
+
+URL:/china/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/retail-sales-annual
+
+DTEND:20250815T030000Z
+
+DTSTART:20250815T020000Z
+
+SUMMARY:CHINA - Retail Sales YoY
+
+UID:a2befae5-4497-4414-8580-064eb073aa8e@a2be.org
+
+URL:/china/retail-sales-annual
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/retail-sales-annual
+
+DTEND:20250616T030000Z
+
+DTSTART:20250616T020000Z
+
+SUMMARY:CHINA - Retail Sales YoY
+
+UID:73ac287f-ac91-404e-aa62-644936112eaf@73ac.org
+
+URL:/china/retail-sales-annual
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Balance of Trade\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/balance-of-trade
+
+DTEND:20251107T043000Z
+
+DTSTART:20251107T033000Z
+
+SUMMARY:CHINA - Balance of Trade
+
+UID:28ff447a-c3ad-4e42-b8c4-cb7dc98e3592@28ff.org
+
+URL:/china/balance-of-trade
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Exports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/exports-yoy
+
+DTEND:20251107T043000Z
+
+DTSTART:20251107T033000Z
+
+SUMMARY:CHINA - Exports YoY
+
+UID:aa4549d0-a610-4906-8e36-8c35d5666f8e@aa45.org
+
+URL:/china/exports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/retail-sales-annual
+
+DTEND:20251114T030000Z
+
+DTSTART:20251114T020000Z
+
+SUMMARY:CHINA - Retail Sales YoY
+
+UID:9af288cc-0586-4170-b547-67b9c21db2b4@9af2.org
+
+URL:/china/retail-sales-annual
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Industrial Production YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: 4.3%\n详情: /china/industrial-production
+
+DTEND:20250715T030000Z
+
+DTSTART:20250715T020000Z
+
+SUMMARY:CHINA - Industrial Production YoY
+
+UID:39486a57-7fbd-4344-b70d-f74998a77a65@3948.org
+
+URL:/china/industrial-production
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: 1.6%\n详情: /china/retail-sales-annual
+
+DTEND:20250715T030000Z
+
+DTSTART:20250715T020000Z
+
+SUMMARY:CHINA - Retail Sales YoY
+
+UID:697736f5-aaea-46e7-b641-a34b67f68c48@6977.org
+
+URL:/china/retail-sales-annual
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Caixin Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/manufacturing-pmi
+
+DTEND:20250930T024500Z
+
+DTSTART:20250930T014500Z
+
+SUMMARY:CHINA - Caixin Manufacturing PMI
+
+UID:9f3d5a68-f27f-457a-9c55-b4ec81aba076@9f3d.org
+
+URL:/china/manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: NBS Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/business-confidence
+
+DTEND:20250831T023000Z
+
+DTSTART:20250831T013000Z
+
+SUMMARY:CHINA - NBS Manufacturing PMI
+
+UID:8b17d92a-2bd5-4d12-837f-ad7ef5f3f756@8b17.org
+
+URL:/china/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Balance of Trade\n国家: china\n实际值: $102.64B\n前值: $170.52B\n预期: $77B\n预测: $ 84B\n详情: /china/balance-of-trade
+
+DTEND:20250414T040000Z
+
+DTSTART:20250414T030000Z
+
+SUMMARY:CHINA - Balance of Trade
+
+UID:66e63f8c-184f-45aa-9573-25441ee1926a@66e6.org
+
+URL:/china/balance-of-trade
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Caixin Manufacturing PMI\n国家: china\n实际值: \n前值: 51.2\n预期: \n预测: N/A\n详情: /china/manufacturing-pmi
+
+DTEND:20250430T024500Z
+
+DTSTART:20250430T014500Z
+
+SUMMARY:CHINA - Caixin Manufacturing PMI
+
+UID:90c9a9e1-2347-4e29-bdd7-5ee80868d130@90c9.org
+
+URL:/china/manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Imports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/imports-yoy
+
+DTEND:20251207T040000Z
+
+DTSTART:20251207T030000Z
+
+SUMMARY:CHINA - Imports YoY
+
+UID:fad26c0f-725c-473a-85ef-0d03fe7662d1@fad2.org
+
+URL:/china/imports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/inflation-cpi
+
+DTEND:20251210T023000Z
+
+DTSTART:20251210T013000Z
+
+SUMMARY:CHINA - Inflation Rate YoY
+
+UID:a237375c-80f1-4868-b9b4-3c71c0720cea@a237.org
+
+URL:/china/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Balance of Trade\n国家: china\n实际值: \n前值: \n预期: \n预测: $ 88B\n详情: /china/balance-of-trade
+
+DTEND:20251014T091500Z
+
+DTSTART:20251014T081500Z
+
+SUMMARY:CHINA - Balance of Trade
+
+UID:6263e0a2-7b64-4974-a322-fb9f97f628ae@6263.org
+
+URL:/china/balance-of-trade
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/inflation-cpi
+
+DTEND:20251109T023000Z
+
+DTSTART:20251109T013000Z
+
+SUMMARY:CHINA - Inflation Rate YoY
+
+UID:cbe371b1-a988-4e4b-a4a8-0b3836d05eca@cbe3.org
+
+URL:/china/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Exports YoY\n国家: china\n实际值: \n前值: 12.4%\n预期: \n预测: N/A\n详情: /china/exports-yoy
+
+DTEND:20250509T040000Z
+
+DTSTART:20250509T030000Z
+
+SUMMARY:CHINA - Exports YoY
+
+UID:7cd4fa8c-bd12-4257-8412-c975a02421bc@7cd4.org
+
+URL:/china/exports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales YoY\n国家: china\n实际值: \n前值: \n预期: 5.9%\n预测: N/A\n详情: /china/retail-sales-annual
+
+DTEND:20250519T030000Z
+
+DTSTART:20250519T020000Z
+
+SUMMARY:CHINA - Retail Sales YoY
+
+UID:e0043429-51aa-4daa-afb2-032c0fa5d2db@e004.org
+
+URL:/china/retail-sales-annual
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/inflation-cpi
+
+DTEND:20250910T023000Z
+
+DTSTART:20250910T013000Z
+
+SUMMARY:CHINA - Inflation Rate YoY
+
+UID:7a6c4b5d-9e45-482c-9953-87ab96070c85@7a6c.org
+
+URL:/china/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/retail-sales-annual
+
+DTEND:20251215T030000Z
+
+DTSTART:20251215T020000Z
+
+SUMMARY:CHINA - Retail Sales YoY
+
+UID:a0dd3871-0751-4351-bdf0-bbd04bee228c@a0dd.org
+
+URL:/china/retail-sales-annual
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Industrial Production YoY\n国家: china\n实际值: \n前值: 7.7%\n预期: \n预测: N/A\n详情: /china/industrial-production
+
+DTEND:20250519T030000Z
+
+DTSTART:20250519T020000Z
+
+SUMMARY:CHINA - Industrial Production YoY
+
+UID:6fc941c1-8a28-4adc-a496-52a3cc7d251a@6fc9.org
+
+URL:/china/industrial-production
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: 0.6%\n详情: /china/inflation-cpi
+
+DTEND:20250709T023000Z
+
+DTSTART:20250709T013000Z
+
+SUMMARY:CHINA - Inflation Rate YoY
+
+UID:0d31aee6-7ebd-4130-8a2c-55d721d7bf4b@0d31.org
+
+URL:/china/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Imports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/imports-yoy
+
+DTEND:20251107T043000Z
+
+DTSTART:20251107T033000Z
+
+SUMMARY:CHINA - Imports YoY
+
+UID:4f3bf445-a91c-47e3-9a48-efde1e92c574@4f3b.org
+
+URL:/china/imports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: NBS Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: 52\n详情: /china/business-confidence
+
+DTEND:20251231T023000Z
+
+DTSTART:20251231T013000Z
+
+SUMMARY:CHINA - NBS Manufacturing PMI
+
+UID:1da850f2-1b93-45d8-bb69-9a66dae5b129@1da8.org
+
+URL:/china/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Balance of Trade\n国家: china\n实际值: \n前值: $102.64B\n预期: \n预测: N/A\n详情: /china/balance-of-trade
+
+DTEND:20250509T040000Z
+
+DTSTART:20250509T030000Z
+
+SUMMARY:CHINA - Balance of Trade
+
+UID:03f01590-f393-4dee-98e1-d59fea9e708a@03f0.org
+
+URL:/china/balance-of-trade
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Industrial Production YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/industrial-production
+
+DTEND:20250915T030000Z
+
+DTSTART:20250915T020000Z
+
+SUMMARY:CHINA - Industrial Production YoY
+
+UID:f1c48d22-013d-4695-9532-344acef38f0d@f1c4.org
+
+URL:/china/industrial-production
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: china\n实际值: \n前值: -0.1%\n预期: \n预测: N/A\n详情: /china/inflation-cpi
+
+DTEND:20250510T023000Z
+
+DTSTART:20250510T013000Z
+
+SUMMARY:CHINA - Inflation Rate YoY
+
+UID:12d5d196-22bf-444b-b376-17969c998fa4@12d5.org
+
+URL:/china/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Balance of Trade\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/balance-of-trade
+
+DTEND:20250807T040000Z
+
+DTSTART:20250807T030000Z
+
+SUMMARY:CHINA - Balance of Trade
+
+UID:f97363c7-b60d-4227-83b9-4d2edbc6ec9d@f973.org
+
+URL:/china/balance-of-trade
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Exports YoY\n国家: china\n实际值: 12.4%\n前值: 2.3%\n预期: 4.4%\n预测: 5.2%\n详情: /china/exports-yoy
+
+DTEND:20250414T040000Z
+
+DTSTART:20250414T030000Z
+
+SUMMARY:CHINA - Exports YoY
+
+UID:ad58b803-efab-499c-b713-bb5ca772c339@ad58.org
+
+URL:/china/exports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Imports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/imports-yoy
+
+DTEND:20250807T040000Z
+
+DTSTART:20250807T030000Z
+
+SUMMARY:CHINA - Imports YoY
+
+UID:d6c714cd-d65d-4295-8763-c048982b1086@d6c7.org
+
+URL:/china/imports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: NBS Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/business-confidence
+
+DTEND:20250731T023000Z
+
+DTSTART:20250731T013000Z
+
+SUMMARY:CHINA - NBS Manufacturing PMI
+
+UID:9a8140d0-a8d1-4316-a60b-79a2dc537717@9a81.org
+
+URL:/china/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Industrial Production YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: 2.6%\n详情: /china/industrial-production
+
+DTEND:20251020T030000Z
+
+DTSTART:20251020T020000Z
+
+SUMMARY:CHINA - Industrial Production YoY
+
+UID:f1707e31-f192-42a9-8c4b-3ba2e081b749@f170.org
+
+URL:/china/industrial-production
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Caixin Manufacturing PMI\n国家: china\n实际值: 51.2\n前值: 50.8\n预期: 51.1\n预测: 51\n详情: /china/manufacturing-pmi
+
+DTEND:20250401T024500Z
+
+DTSTART:20250401T014500Z
+
+SUMMARY:CHINA - Caixin Manufacturing PMI
+
+UID:fcf7e9a3-94a1-44a2-a2d6-47d9a0e5c084@fcf7.org
+
+URL:/china/manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Caixin Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: 51.3\n详情: /china/manufacturing-pmi
+
+DTEND:20250701T024500Z
+
+DTSTART:20250701T014500Z
+
+SUMMARY:CHINA - Caixin Manufacturing PMI
+
+UID:86f13b86-93fd-4943-83eb-d6c551d5d696@86f1.org
+
+URL:/china/manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Exports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/exports-yoy
+
+DTEND:20250807T040000Z
+
+DTSTART:20250807T030000Z
+
+SUMMARY:CHINA - Exports YoY
+
+UID:f7b719ae-585a-45c0-98a5-2bb10cee9876@f7b7.org
+
+URL:/china/exports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Exports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/exports-yoy
+
+DTEND:20250910T040000Z
+
+DTSTART:20250910T030000Z
+
+SUMMARY:CHINA - Exports YoY
+
+UID:e03eba42-50a8-42c3-b8a3-2eb7a2aed18b@e03e.org
+
+URL:/china/exports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Caixin Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/manufacturing-pmi
+
+DTEND:20251201T024500Z
+
+DTSTART:20251201T014500Z
+
+SUMMARY:CHINA - Caixin Manufacturing PMI
+
+UID:eb40fa5f-760e-427f-8ab4-c0ca709dc2e4@eb40.org
+
+URL:/china/manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Industrial Production YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/industrial-production
+
+DTEND:20250616T030000Z
+
+DTSTART:20250616T020000Z
+
+SUMMARY:CHINA - Industrial Production YoY
+
+UID:53b0f6bf-35f4-4803-bc6d-7695c32cc8c8@53b0.org
+
+URL:/china/industrial-production
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: NBS Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/business-confidence
+
+DTEND:20250531T023000Z
+
+DTSTART:20250531T013000Z
+
+SUMMARY:CHINA - NBS Manufacturing PMI
+
+UID:e20b5a13-e19d-4fa6-a934-2dbedd073027@e20b.org
+
+URL:/china/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Exports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/exports-yoy
+
+DTEND:20251207T040000Z
+
+DTSTART:20251207T030000Z
+
+SUMMARY:CHINA - Exports YoY
+
+UID:7dbc67ec-9228-44db-983d-3d1a3931d6be@7dbc.org
+
+URL:/china/exports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Industrial Production YoY\n国家: china\n实际值: 7.7%\n前值: 5.9%\n预期: 5.6%\n预测: 5.8%\n详情: /china/industrial-production
+
+DTEND:20250416T030000Z
+
+DTSTART:20250416T020000Z
+
+SUMMARY:CHINA - Industrial Production YoY
+
+UID:1763a774-e9f8-44eb-b79a-5f0ac60e0dbb@1763.org
+
+URL:/china/industrial-production
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Industrial Production YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/industrial-production
+
+DTEND:20250815T030000Z
+
+DTSTART:20250815T020000Z
+
+SUMMARY:CHINA - Industrial Production YoY
+
+UID:d5ce779e-c46c-4b53-a85b-53af76fb931f@d5ce.org
+
+URL:/china/industrial-production
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Industrial Production YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/industrial-production
+
+DTEND:20251215T030000Z
+
+DTSTART:20251215T020000Z
+
+SUMMARY:CHINA - Industrial Production YoY
+
+UID:477edb9f-83c5-4e4e-b8a8-f52c3c6c901e@477e.org
+
+URL:/china/industrial-production
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Imports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/imports-yoy
+
+DTEND:20251014T091500Z
+
+DTSTART:20251014T081500Z
+
+SUMMARY:CHINA - Imports YoY
+
+UID:f17a2739-d0ab-4de6-bd51-0f0c4193d88e@f17a.org
+
+URL:/china/imports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: NBS Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/business-confidence
+
+DTEND:20251130T023000Z
+
+DTSTART:20251130T013000Z
+
+SUMMARY:CHINA - NBS Manufacturing PMI
+
+UID:700219bb-2a2a-4cb1-8529-b80755165d66@7002.org
+
+URL:/china/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Imports YoY\n国家: china\n实际值: -4.3%\n前值: -8.4%\n预期: -2%\n预测: -1%\n详情: /china/imports-yoy
+
+DTEND:20250414T040000Z
+
+DTSTART:20250414T030000Z
+
+SUMMARY:CHINA - Imports YoY
+
+UID:4ecda119-8e8e-4b4b-bad3-d1ec5b184808@4ecd.org
+
+URL:/china/imports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Imports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/imports-yoy
+
+DTEND:20250712T040000Z
+
+DTSTART:20250712T030000Z
+
+SUMMARY:CHINA - Imports YoY
+
+UID:e0984a7f-2e47-42fc-8e7d-d1ecb0a92400@e098.org
+
+URL:/china/imports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Industrial Production YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/industrial-production
+
+DTEND:20251114T030000Z
+
+DTSTART:20251114T020000Z
+
+SUMMARY:CHINA - Industrial Production YoY
+
+UID:7df3d359-fb67-47a6-a27b-64938b8de606@7df3.org
+
+URL:/china/industrial-production
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: china\n实际值: -0.1%\n前值: -0.7%\n预期: 0.1%\n预测: 0.0%\n详情: /china/inflation-cpi
+
+DTEND:20250410T023000Z
+
+DTSTART:20250410T013000Z
+
+SUMMARY:CHINA - Inflation Rate YoY
+
+UID:5287dfb0-80f7-4e4a-bfcc-07417d6af941@5287.org
+
+URL:/china/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Imports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/imports-yoy
+
+DTEND:20250910T040000Z
+
+DTSTART:20250910T030000Z
+
+SUMMARY:CHINA - Imports YoY
+
+UID:f0c213e8-5f1b-44f1-aab3-287f61febe8c@f0c2.org
+
+URL:/china/imports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate YoY\n国家: china\n实际值: \n前值: 5.4%\n预期: \n预测: 4.6%\n详情: /china/gdp-growth-annual
+
+DTEND:20250715T030000Z
+
+DTSTART:20250715T020000Z
+
+SUMMARY:CHINA - GDP Growth Rate YoY
+
+UID:970bdc87-f0ce-444a-ba33-793f6bb1f338@970b.org
+
+URL:/china/gdp-growth-annual
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/inflation-cpi
+
+DTEND:20250809T023000Z
+
+DTSTART:20250809T013000Z
+
+SUMMARY:CHINA - Inflation Rate YoY
+
+UID:dfa6a91e-7130-48b6-af4b-b734dc223cdc@dfa6.org
+
+URL:/china/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: 4.7%\n详情: /china/gdp-growth-annual
+
+DTEND:20251020T030000Z
+
+DTSTART:20251020T020000Z
+
+SUMMARY:CHINA - GDP Growth Rate YoY
+
+UID:fa6e5e92-c620-43c7-9ea5-f97c9e287183@fa6e.org
+
+URL:/china/gdp-growth-annual
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: NBS Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: 51.7\n详情: /china/business-confidence
+
+DTEND:20250930T023000Z
+
+DTSTART:20250930T013000Z
+
+SUMMARY:CHINA - NBS Manufacturing PMI
+
+UID:463fb1b6-b7cd-4f0f-9af6-4e9b1b2e55cb@463f.org
+
+URL:/china/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Balance of Trade\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/balance-of-trade
+
+DTEND:20251207T040000Z
+
+DTSTART:20251207T030000Z
+
+SUMMARY:CHINA - Balance of Trade
+
+UID:b7f81f62-52ea-4182-b709-bddbcbfc548b@b7f8.org
+
+URL:/china/balance-of-trade
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: 2.2%\n详情: /china/retail-sales-annual
+
+DTEND:20251020T030000Z
+
+DTSTART:20251020T020000Z
+
+SUMMARY:CHINA - Retail Sales YoY
+
+UID:99f4b1c7-9a69-4254-9bf6-1bd63b77363a@99f4.org
+
+URL:/china/retail-sales-annual
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: NBS Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: 52.3\n详情: /china/business-confidence
+
+DTEND:20250630T023000Z
+
+DTSTART:20250630T013000Z
+
+SUMMARY:CHINA - NBS Manufacturing PMI
+
+UID:4f8c6b0d-fa4b-4a33-925c-f4d22d0ffd4c@4f8c.org
+
+URL:/china/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: NBS Manufacturing PMI\n国家: china\n实际值: \n前值: 50.5\n预期: \n预测: N/A\n详情: /china/business-confidence
+
+DTEND:20250430T023000Z
+
+DTSTART:20250430T013000Z
+
+SUMMARY:CHINA - NBS Manufacturing PMI
+
+UID:36fd69d9-26b4-4573-84e3-30e45945196c@36fd.org
+
+URL:/china/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Imports YoY\n国家: china\n实际值: \n前值: -4.3%\n预期: \n预测: N/A\n详情: /china/imports-yoy
+
+DTEND:20250509T040000Z
+
+DTSTART:20250509T030000Z
+
+SUMMARY:CHINA - Imports YoY
+
+UID:38000346-08b6-414a-9161-39ea1e26a843@3800.org
+
+URL:/china/imports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/retail-sales-annual
+
+DTEND:20250915T030000Z
+
+DTSTART:20250915T020000Z
+
+SUMMARY:CHINA - Retail Sales YoY
+
+UID:0a41e2c5-f55b-43c4-9741-a0eb8c48ccfa@0a41.org
+
+URL:/china/retail-sales-annual
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/inflation-cpi
+
+DTEND:20250609T023000Z
+
+DTSTART:20250609T013000Z
+
+SUMMARY:CHINA - Inflation Rate YoY
+
+UID:1f89a140-c7a4-4801-b9d4-9d99e3b322a8@1f89.org
+
+URL:/china/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Imports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/imports-yoy
+
+DTEND:20250607T040000Z
+
+DTSTART:20250607T030000Z
+
+SUMMARY:CHINA - Imports YoY
+
+UID:64a28d0d-c83d-46ea-9577-af4b07366532@64a2.org
+
+URL:/china/imports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Balance of Trade\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/balance-of-trade
+
+DTEND:20250607T040000Z
+
+DTSTART:20250607T030000Z
+
+SUMMARY:CHINA - Balance of Trade
+
+UID:8514f702-8174-47cd-88df-3b13cec3a039@8514.org
+
+URL:/china/balance-of-trade
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Caixin Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/manufacturing-pmi
+
+DTEND:20250901T024500Z
+
+DTSTART:20250901T014500Z
+
+SUMMARY:CHINA - Caixin Manufacturing PMI
+
+UID:09a6ff9f-f6f4-41d9-b833-c7187b03e559@09a6.org
+
+URL:/china/manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Caixin Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/manufacturing-pmi
+
+DTEND:20250801T024500Z
+
+DTSTART:20250801T014500Z
+
+SUMMARY:CHINA - Caixin Manufacturing PMI
+
+UID:58f2aa44-81f2-4393-831d-ce1f28246d61@58f2.org
+
+URL:/china/manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Balance of Trade\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/balance-of-trade
+
+DTEND:20250910T040000Z
+
+DTSTART:20250910T030000Z
+
+SUMMARY:CHINA - Balance of Trade
+
+UID:cbaf0c57-3f07-4f84-8b57-74fcfc23f8fc@cbaf.org
+
+URL:/china/balance-of-trade
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Exports YoY\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/exports-yoy
+
+DTEND:20251014T091500Z
+
+DTSTART:20251014T081500Z
+
+SUMMARY:CHINA - Exports YoY
+
+UID:7e53b3cb-ce1e-4de9-9379-72c221c16462@7e53.org
+
+URL:/china/exports-yoy
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: NBS Manufacturing PMI\n国家: china\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /china/business-confidence
+
+DTEND:20251031T023000Z
+
+DTSTART:20251031T013000Z
+
+SUMMARY:CHINA - NBS Manufacturing PMI
+
+UID:afa1a42f-07b1-40a5-9eaa-003b5429445a@afa1.org
+
+URL:/china/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate YoY\n国家: china\n实际值: 5.4%\n前值: 5.4%\n预期: 5.1%\n预测: 5.2%\n详情: /china/gdp-growth-annual
+
+DTEND:20250416T030000Z
+
+DTSTART:20250416T020000Z
+
+SUMMARY:CHINA - GDP Growth Rate YoY
+
+UID:e55f819b-9356-47e2-9782-c4a88f5e9eb3@e55f.org
+
+URL:/china/gdp-growth-annual
+
+END:VEVENT
+
+END:VCALENDAR
