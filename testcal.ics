@@ -1,0 +1,3271 @@
+BEGIN:VCALENDAR
+
+VERSION:2.0
+
+PRODID:ics.py - http://git.io/lLljaA
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate QoQ 2nd Est\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.9%\n详情: /united-states/gdp-growth
+
+DTEND:20250529T133000Z
+
+DTSTART:20250529T123000Z
+
+SUMMARY:UNITED STATES - GDP Growth Rate QoQ 2nd Est
+
+UID:32a930ff-0d5e-41cd-b4a8-3d3018d4562d@32a9.org
+
+URL:/united-states/gdp-growth
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/inflation-rate-mom
+
+DTEND:20250611T133000Z
+
+DTSTART:20250611T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate MoM
+
+UID:261128d1-eaa7-4fad-9095-f57f9c3e9fa7@2611.org
+
+URL:/united-states/inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Income MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-income
+
+DTEND:20251126T143000Z
+
+DTSTART:20251126T133000Z
+
+SUMMARY:UNITED STATES - Personal Income MoM
+
+UID:3c4d7792-22ec-4d64-b215-470ddfebb028@3c4d.org
+
+URL:/united-states/personal-income
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: FOMC Minutes\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250528T190000Z
+
+DTSTART:20250528T180000Z
+
+SUMMARY:UNITED STATES - FOMC Minutes
+
+UID:5ff09e8c-f00f-42a5-9275-a7dfd103790f@5ff0.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Spending MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-spending
+
+DTEND:20250627T133000Z
+
+DTSTART:20250627T123000Z
+
+SUMMARY:UNITED STATES - Personal Spending MoM
+
+UID:4e48635d-1b84-4555-8738-987bcbb08011@4e48.org
+
+URL:/united-states/personal-spending
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Unemployment Rate\n国家: united states\n实际值: \n前值: \n预期: \n预测: 4.2%\n详情: /united-states/unemployment-rate
+
+DTEND:20250703T133000Z
+
+DTSTART:20250703T123000Z
+
+SUMMARY:UNITED STATES - Unemployment Rate
+
+UID:3bedd9f4-517e-4797-b75a-be8ef6e5697c@3bed.org
+
+URL:/united-states/unemployment-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Manufacturing PMI\n国家: united states\n实际值: 49\n前值: 50.3\n预期: 49.5\n预测: 50\n详情: /united-states/business-confidence
+
+DTEND:20250401T150000Z
+
+DTSTART:20250401T140000Z
+
+SUMMARY:UNITED STATES - ISM Manufacturing PMI
+
+UID:43386ad6-0bf2-40f1-86f3-fad0043c86e7@4338.org
+
+URL:/united-states/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core PCE Price Index MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.3%\n详情: /united-states/core-pce-price-index-mom
+
+DTEND:20251031T133000Z
+
+DTSTART:20251031T123000Z
+
+SUMMARY:UNITED STATES - Core PCE Price Index MoM
+
+UID:a5c9e58c-2669-4e99-9cdf-e489a0281536@a5c9.org
+
+URL:/united-states/core-pce-price-index-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Michigan Consumer Sentiment Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/consumer-confidence
+
+DTEND:20251107T160000Z
+
+DTSTART:20251107T150000Z
+
+SUMMARY:UNITED STATES - Michigan Consumer Sentiment Prel
+
+UID:796be422-7329-4363-82e6-f5a47a3564c5@796b.org
+
+URL:/united-states/consumer-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Interest Rate Decision\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250917T190000Z
+
+DTSTART:20250917T180000Z
+
+SUMMARY:UNITED STATES - Fed Interest Rate Decision
+
+UID:9d1c26ca-28cf-4840-acba-22267f51dde4@9d1c.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate MoM\n国家: united states\n实际值: 0.1%\n前值: 0.2%\n预期: 0.3%\n预测: 0.3%\n详情: /united-states/core-inflation-rate-mom
+
+DTEND:20250410T133000Z
+
+DTSTART:20250410T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate MoM
+
+UID:e2df5e4b-fabb-4b3a-965e-138ecdb8dfb6@e2df.org
+
+URL:/united-states/core-inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/inflation-cpi
+
+DTEND:20251210T143000Z
+
+DTSTART:20251210T133000Z
+
+SUMMARY:UNITED STATES - Inflation Rate YoY
+
+UID:79211b58-47d1-4385-b179-7c838361a738@7921.org
+
+URL:/united-states/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Unemployment Rate\n国家: united states\n实际值: \n前值: \n预期: \n预测: 4.3%\n详情: /united-states/unemployment-rate
+
+DTEND:20251003T133000Z
+
+DTSTART:20251003T123000Z
+
+SUMMARY:UNITED STATES - Unemployment Rate
+
+UID:ac7fc9c6-8b62-44ca-8728-c87a6087307a@ac7f.org
+
+URL:/united-states/unemployment-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.2%\n详情: /united-states/inflation-rate-mom
+
+DTEND:20251015T133000Z
+
+DTSTART:20251015T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate MoM
+
+UID:4fe278ca-9e01-4022-89b4-274e742b4079@4fe2.org
+
+URL:/united-states/inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: PPI MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.3%\n详情: /united-states/producer-price-inflation-mom
+
+DTEND:20250716T133000Z
+
+DTSTART:20250716T123000Z
+
+SUMMARY:UNITED STATES - PPI MoM
+
+UID:5b0c9eb8-9aa0-451d-b30b-b806fc39634e@5b0c.org
+
+URL:/united-states/producer-price-inflation-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Manufacturing PMI\n国家: united states\n实际值: \n前值: 49\n预期: \n预测: 49.2\n详情: /united-states/business-confidence
+
+DTEND:20250501T150000Z
+
+DTSTART:20250501T140000Z
+
+SUMMARY:UNITED STATES - ISM Manufacturing PMI
+
+UID:86e9660b-9976-4259-b411-40ac8a88c6ca@86e9.org
+
+URL:/united-states/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Income MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-income
+
+DTEND:20250926T133000Z
+
+DTSTART:20250926T123000Z
+
+SUMMARY:UNITED STATES - Personal Income MoM
+
+UID:0333771d-02c2-4f3f-a579-961173743497@0333.org
+
+URL:/united-states/personal-income
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Press Conference\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20251210T203000Z
+
+DTSTART:20251210T193000Z
+
+SUMMARY:UNITED STATES - Fed Press Conference
+
+UID:7ef9bbd6-3b50-4293-8d50-e83aea3036dd@7ef9.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Interest Rate Decision\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20251029T190000Z
+
+DTSTART:20251029T180000Z
+
+SUMMARY:UNITED STATES - Fed Interest Rate Decision
+
+UID:7ead8f5b-d1be-477e-9e4d-d23c7ffedd88@7ead.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Building Permits Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/building-permits
+
+DTEND:20251216T143000Z
+
+DTSTART:20251216T133000Z
+
+SUMMARY:UNITED STATES - Building Permits Prel
+
+UID:3e3fde41-bbe0-4e0a-83a6-b8a1c05894dd@3e3f.org
+
+URL:/united-states/building-permits
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Building Permits Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/building-permits
+
+DTEND:20250819T133000Z
+
+DTSTART:20250819T123000Z
+
+SUMMARY:UNITED STATES - Building Permits Prel
+
+UID:d02a3530-9ecf-4e42-bc42-55234882bf3f@d02a.org
+
+URL:/united-states/building-permits
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Michigan Consumer Sentiment Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: 67\n详情: /united-states/consumer-confidence
+
+DTEND:20250613T150000Z
+
+DTSTART:20250613T140000Z
+
+SUMMARY:UNITED STATES - Michigan Consumer Sentiment Prel
+
+UID:b660a99d-d3fd-4815-aa51-2a076fde9508@b660.org
+
+URL:/united-states/consumer-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Michigan Consumer Sentiment Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/consumer-confidence
+
+DTEND:20250718T150000Z
+
+DTSTART:20250718T140000Z
+
+SUMMARY:UNITED STATES - Michigan Consumer Sentiment Prel
+
+UID:cbab6723-fbcc-4781-8b56-d9bf363a6b5a@cbab.org
+
+URL:/united-states/consumer-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/inflation-rate-mom
+
+DTEND:20250812T133000Z
+
+DTSTART:20250812T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate MoM
+
+UID:f8b3d055-791d-48d2-b9b6-6d8696ffb2a3@f8b3.org
+
+URL:/united-states/inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: JOLTs Job Openings\n国家: united states\n实际值: \n前值: 7.568M\n预期: \n预测:  7.4M\n详情: /united-states/job-offers
+
+DTEND:20250429T150000Z
+
+DTSTART:20250429T140000Z
+
+SUMMARY:UNITED STATES - JOLTs Job Openings
+
+UID:c610053d-3b23-4f2c-bfa1-c1fa4c44e340@c610.org
+
+URL:/united-states/job-offers
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Building Permits Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: 1.4M\n详情: /united-states/building-permits
+
+DTEND:20251017T133000Z
+
+DTSTART:20251017T123000Z
+
+SUMMARY:UNITED STATES - Building Permits Prel
+
+UID:7e26c0bd-585e-48f3-b1f8-115e05ebbd61@7e26.org
+
+URL:/united-states/building-permits
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate
+
+DTEND:20251113T143000Z
+
+DTSTART:20251113T133000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate YoY
+
+UID:0a10bb03-85e1-4a5e-a57f-0b9426762213@0a10.org
+
+URL:/united-states/core-inflation-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Press Conference\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250507T193000Z
+
+DTSTART:20250507T183000Z
+
+SUMMARY:UNITED STATES - Fed Press Conference
+
+UID:ef1e6ad5-f4b4-42ed-991f-2f4a3bed54c8@ef1e.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Non Farm Payrolls\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/non-farm-payrolls
+
+DTEND:20251205T143000Z
+
+DTSTART:20251205T133000Z
+
+SUMMARY:UNITED STATES - Non Farm Payrolls
+
+UID:03e85207-8413-49d8-8a1a-38b877d8fb06@03e8.org
+
+URL:/united-states/non-farm-payrolls
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: -0.2%\n详情: /united-states/retail-sales
+
+DTEND:20251016T133000Z
+
+DTSTART:20251016T123000Z
+
+SUMMARY:UNITED STATES - Retail Sales MoM
+
+UID:6af02f38-347f-497a-837f-773673125492@6af0.org
+
+URL:/united-states/retail-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Building Permits Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/building-permits
+
+DTEND:20250917T133000Z
+
+DTSTART:20250917T123000Z
+
+SUMMARY:UNITED STATES - Building Permits Prel
+
+UID:4ba79c77-d892-4c67-b996-7a8771b8ea2f@4ba7.org
+
+URL:/united-states/building-permits
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Income MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.4%\n详情: /united-states/personal-income
+
+DTEND:20251031T133000Z
+
+DTSTART:20251031T123000Z
+
+SUMMARY:UNITED STATES - Personal Income MoM
+
+UID:9bf866b0-516b-4b2d-b8d3-52c7c7a09414@9bf8.org
+
+URL:/united-states/personal-income
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate QoQ Final\n国家: united states\n实际值: \n前值: \n预期: \n预测: 1.5%\n详情: /united-states/gdp-growth
+
+DTEND:20251219T143000Z
+
+DTSTART:20251219T133000Z
+
+SUMMARY:UNITED STATES - GDP Growth Rate QoQ Final
+
+UID:79c79f64-ab26-4932-ba08-2b5c6d96707d@79c7.org
+
+URL:/united-states/gdp-growth
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: FOMC Economic Projections\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250618T190000Z
+
+DTSTART:20250618T180000Z
+
+SUMMARY:UNITED STATES - FOMC Economic Projections
+
+UID:718a06a1-af37-4772-bf7f-ca2589f22ce3@718a.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Housing Starts\n国家: united states\n实际值: \n前值: \n预期: \n预测: 1.36M\n详情: /united-states/housing-starts
+
+DTEND:20250718T133000Z
+
+DTSTART:20250718T123000Z
+
+SUMMARY:UNITED STATES - Housing Starts
+
+UID:db5728a7-1c46-47c2-ba6a-6f4555651365@db57.org
+
+URL:/united-states/housing-starts
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: JOLTs Job Openings\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/job-offers
+
+DTEND:20250930T150000Z
+
+DTSTART:20250930T140000Z
+
+SUMMARY:UNITED STATES - JOLTs Job Openings
+
+UID:531ab10d-98dd-4f24-adcd-35948be4b5f5@531a.org
+
+URL:/united-states/job-offers
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate MoM\n国家: united states\n实际值: -0.1%\n前值: 0.2%\n预期: 0.1%\n预测: 0.1%\n详情: /united-states/inflation-rate-mom
+
+DTEND:20250410T133000Z
+
+DTSTART:20250410T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate MoM
+
+UID:ae5e7738-8ae8-41b5-a83a-6f4125fc80b8@ae5e.org
+
+URL:/united-states/inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Manufacturing PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/business-confidence
+
+DTEND:20250602T150000Z
+
+DTSTART:20250602T140000Z
+
+SUMMARY:UNITED STATES - ISM Manufacturing PMI
+
+UID:51d8b33b-ade7-4f83-85ea-ad2890d242ca@51d8.org
+
+URL:/united-states/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate YoY\n国家: united states\n实际值: 2.8%\n前值: 3.1%\n预期: 3%\n预测: 3.0%\n详情: /united-states/core-inflation-rate
+
+DTEND:20250410T133000Z
+
+DTSTART:20250410T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate YoY
+
+UID:c72617b7-60ef-45b1-bf16-2aaa0bf023e1@c726.org
+
+URL:/united-states/core-inflation-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Durable Goods Orders MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/durable-goods-orders
+
+DTEND:20250626T133000Z
+
+DTSTART:20250626T123000Z
+
+SUMMARY:UNITED STATES - Durable Goods Orders MoM
+
+UID:f00fdc08-bbca-4203-a877-1492f13dbb3d@f00f.org
+
+URL:/united-states/durable-goods-orders
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Services PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/non-manufacturing-pmi
+
+DTEND:20250904T150000Z
+
+DTSTART:20250904T140000Z
+
+SUMMARY:UNITED STATES - ISM Services PMI
+
+UID:30939957-40e8-40b1-a093-54a152546874@3093.org
+
+URL:/united-states/non-manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Michigan Consumer Sentiment Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: 72\n详情: /united-states/consumer-confidence
+
+DTEND:20251205T160000Z
+
+DTSTART:20251205T150000Z
+
+SUMMARY:UNITED STATES - Michigan Consumer Sentiment Prel
+
+UID:185f82bd-3b11-42eb-b34a-db277cf034f4@185f.org
+
+URL:/united-states/consumer-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate-mom
+
+DTEND:20251210T143000Z
+
+DTSTART:20251210T133000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate MoM
+
+UID:329be0a0-f8e3-4ac7-9e54-eca7e51fb7e4@329b.org
+
+URL:/united-states/core-inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/retail-sales
+
+DTEND:20250515T133000Z
+
+DTSTART:20250515T123000Z
+
+SUMMARY:UNITED STATES - Retail Sales MoM
+
+UID:0bd72b77-749d-4d02-9f6a-03a5061bd4e3@0bd7.org
+
+URL:/united-states/retail-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.1%\n详情: /united-states/core-inflation-rate-mom
+
+DTEND:20251015T133000Z
+
+DTSTART:20251015T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate MoM
+
+UID:1103bece-928f-4950-8ec7-5b958e8f2911@1103.org
+
+URL:/united-states/core-inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: JOLTs Job Openings\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/job-offers
+
+DTEND:20250701T150000Z
+
+DTSTART:20250701T140000Z
+
+SUMMARY:UNITED STATES - JOLTs Job Openings
+
+UID:78e04fd8-3b21-4927-81f6-3c19b29aff78@78e0.org
+
+URL:/united-states/job-offers
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Housing Starts\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/housing-starts
+
+DTEND:20250819T133000Z
+
+DTSTART:20250819T123000Z
+
+SUMMARY:UNITED STATES - Housing Starts
+
+UID:e8bb2704-22cf-4fe0-aadd-0760f50cffb7@e8bb.org
+
+URL:/united-states/housing-starts
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Existing Home Sales\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/existing-home-sales
+
+DTEND:20250923T150000Z
+
+DTSTART:20250923T140000Z
+
+SUMMARY:UNITED STATES - Existing Home Sales
+
+UID:0f733d83-fe7b-4027-aa35-07a5c6808fd6@0f73.org
+
+URL:/united-states/existing-home-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.2%\n详情: /united-states/retail-sales
+
+DTEND:20250717T133000Z
+
+DTSTART:20250717T123000Z
+
+SUMMARY:UNITED STATES - Retail Sales MoM
+
+UID:931bc400-8aeb-4596-b31f-09646494787e@931b.org
+
+URL:/united-states/retail-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Unemployment Rate\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/unemployment-rate
+
+DTEND:20250801T133000Z
+
+DTSTART:20250801T123000Z
+
+SUMMARY:UNITED STATES - Unemployment Rate
+
+UID:d9a1cc43-3c4b-409b-825f-98cb63377aa2@d9a1.org
+
+URL:/united-states/unemployment-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Spending MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.1%\n详情: /united-states/personal-spending
+
+DTEND:20251031T133000Z
+
+DTSTART:20251031T123000Z
+
+SUMMARY:UNITED STATES - Personal Spending MoM
+
+UID:71770ecb-a5e6-4b25-9df8-8fdb4f1738d4@7177.org
+
+URL:/united-states/personal-spending
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Interest Rate Decision\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20251210T200000Z
+
+DTSTART:20251210T190000Z
+
+SUMMARY:UNITED STATES - Fed Interest Rate Decision
+
+UID:ebc94354-2f6a-447d-9e55-4f8d1a0fab26@ebc9.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Durable Goods Orders MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/durable-goods-orders
+
+DTEND:20250527T133000Z
+
+DTSTART:20250527T123000Z
+
+SUMMARY:UNITED STATES - Durable Goods Orders MoM
+
+UID:33d0e9c6-04be-47db-b96b-97e397d8a097@33d0.org
+
+URL:/united-states/durable-goods-orders
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: PPI MoM\n国家: united states\n实际值: \n前值: -0.4%\n预期: \n预测: N/A\n详情: /united-states/producer-price-inflation-mom
+
+DTEND:20250515T133000Z
+
+DTSTART:20250515T123000Z
+
+SUMMARY:UNITED STATES - PPI MoM
+
+UID:863d7714-e5f0-4c85-ad4f-935ec4bdc894@863d.org
+
+URL:/united-states/producer-price-inflation-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate YoY\n国家: united states\n实际值: \n前值: 2.8%\n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate
+
+DTEND:20250513T133000Z
+
+DTSTART:20250513T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate YoY
+
+UID:dd2a7868-0906-440a-ad44-4ab3088068b0@dd2a.org
+
+URL:/united-states/core-inflation-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Unemployment Rate\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/unemployment-rate
+
+DTEND:20251205T143000Z
+
+DTSTART:20251205T133000Z
+
+SUMMARY:UNITED STATES - Unemployment Rate
+
+UID:e295205f-500c-4b95-be98-b6d2fad3ecb6@e295.org
+
+URL:/united-states/unemployment-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: FOMC Minutes\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20251008T200000Z
+
+DTSTART:20251008T190000Z
+
+SUMMARY:UNITED STATES - FOMC Minutes
+
+UID:616062b1-f642-4d99-8f1e-e312787f8828@6160.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Chair Powell Speech\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250404T162500Z
+
+DTSTART:20250404T152500Z
+
+SUMMARY:UNITED STATES - Fed Chair Powell Speech
+
+UID:f9e014b6-9b09-46f6-a90b-f27976908438@f9e0.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: PPI MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/producer-price-inflation-mom
+
+DTEND:20251211T143000Z
+
+DTSTART:20251211T133000Z
+
+SUMMARY:UNITED STATES - PPI MoM
+
+UID:f28fb07a-3dbd-479b-b87a-1820748efdf8@f28f.org
+
+URL:/united-states/producer-price-inflation-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core PCE Price Index MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-pce-price-index-mom
+
+DTEND:20250530T133000Z
+
+DTSTART:20250530T123000Z
+
+SUMMARY:UNITED STATES - Core PCE Price Index MoM
+
+UID:5b208c28-609f-43ca-92cd-f6dba679e9e2@5b20.org
+
+URL:/united-states/core-pce-price-index-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate QoQ Adv\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.9%\n详情: /united-states/gdp-growth
+
+DTEND:20250430T133000Z
+
+DTSTART:20250430T123000Z
+
+SUMMARY:UNITED STATES - GDP Growth Rate QoQ Adv
+
+UID:8052136e-7b63-42f4-83b7-9898967e9991@8052.org
+
+URL:/united-states/gdp-growth
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/inflation-cpi
+
+DTEND:20251113T143000Z
+
+DTSTART:20251113T133000Z
+
+SUMMARY:UNITED STATES - Inflation Rate YoY
+
+UID:250ae25a-e401-4063-b4b6-dbd4aa11e999@250a.org
+
+URL:/united-states/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Spending MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-spending
+
+DTEND:20251126T143000Z
+
+DTSTART:20251126T133000Z
+
+SUMMARY:UNITED STATES - Personal Spending MoM
+
+UID:de3633e4-65c8-44a3-b1db-350be46da91b@de36.org
+
+URL:/united-states/personal-spending
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Durable Goods Orders MoM\n国家: united states\n实际值: \n前值: 0.9%\n预期: \n预测: -0.5%\n详情: /united-states/durable-goods-orders
+
+DTEND:20250424T133000Z
+
+DTSTART:20250424T123000Z
+
+SUMMARY:UNITED STATES - Durable Goods Orders MoM
+
+UID:29b02dda-c691-4aa0-8c2b-475b333f05e6@29b0.org
+
+URL:/united-states/durable-goods-orders
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate QoQ Final\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.9%\n详情: /united-states/gdp-growth
+
+DTEND:20250626T133000Z
+
+DTSTART:20250626T123000Z
+
+SUMMARY:UNITED STATES - GDP Growth Rate QoQ Final
+
+UID:dc40c1d5-1588-4de8-8d18-e64863164a18@dc40.org
+
+URL:/united-states/gdp-growth
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/retail-sales
+
+DTEND:20251114T143000Z
+
+DTSTART:20251114T133000Z
+
+SUMMARY:UNITED STATES - Retail Sales MoM
+
+UID:57360a17-0468-4ed6-ad1a-956b189ce966@5736.org
+
+URL:/united-states/retail-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/retail-sales
+
+DTEND:20250815T133000Z
+
+DTSTART:20250815T123000Z
+
+SUMMARY:UNITED STATES - Retail Sales MoM
+
+UID:080e9c3b-71cb-463a-b86c-78fffe0d1c36@080e.org
+
+URL:/united-states/retail-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Spending MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-spending
+
+DTEND:20250926T133000Z
+
+DTSTART:20250926T123000Z
+
+SUMMARY:UNITED STATES - Personal Spending MoM
+
+UID:717775db-b320-4267-ae95-2fadeb2acc3e@7177.org
+
+URL:/united-states/personal-spending
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate
+
+DTEND:20251210T143000Z
+
+DTSTART:20251210T133000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate YoY
+
+UID:e0580fef-9ae0-4e72-950e-f57cf855b58d@e058.org
+
+URL:/united-states/core-inflation-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate MoM\n国家: united states\n实际值: \n前值: 0.1%\n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate-mom
+
+DTEND:20250513T133000Z
+
+DTSTART:20250513T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate MoM
+
+UID:9370786f-1530-4c2a-a56e-9ca8121f3ee0@9370.org
+
+URL:/united-states/core-inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/inflation-cpi
+
+DTEND:20250611T133000Z
+
+DTSTART:20250611T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate YoY
+
+UID:5037b45f-2aa4-4964-86ea-c03ef16a4853@5037.org
+
+URL:/united-states/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Interest Rate Decision\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250730T190000Z
+
+DTSTART:20250730T180000Z
+
+SUMMARY:UNITED STATES - Fed Interest Rate Decision
+
+UID:52e6b576-4005-40f5-888b-d3ee3ff98b67@52e6.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: FOMC Minutes\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250820T190000Z
+
+DTSTART:20250820T180000Z
+
+SUMMARY:UNITED STATES - FOMC Minutes
+
+UID:a9fdf01d-5bfa-4f17-9fb9-56f0f561c9fc@a9fd.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate
+
+DTEND:20250911T133000Z
+
+DTSTART:20250911T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate YoY
+
+UID:77028579-2895-40bf-b30d-5c64ea662e9c@7702.org
+
+URL:/united-states/core-inflation-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: JOLTs Job Openings\n国家: united states\n实际值: \n前值: \n预期: \n预测:  7.2M\n详情: /united-states/job-offers
+
+DTEND:20251104T150000Z
+
+DTSTART:20251104T140000Z
+
+SUMMARY:UNITED STATES - JOLTs Job Openings
+
+UID:b8d21113-c181-4c2b-8e7a-ff522d406c02@b8d2.org
+
+URL:/united-states/job-offers
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core PCE Price Index MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-pce-price-index-mom
+
+DTEND:20251126T143000Z
+
+DTSTART:20251126T133000Z
+
+SUMMARY:UNITED STATES - Core PCE Price Index MoM
+
+UID:3b2a5659-cb07-4213-b9f7-1fc332f39cd4@3b2a.org
+
+URL:/united-states/core-pce-price-index-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: united states\n实际值: 2.4%\n前值: 2.8%\n预期: 2.6%\n预测: 2.5%\n详情: /united-states/inflation-cpi
+
+DTEND:20250410T133000Z
+
+DTSTART:20250410T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate YoY
+
+UID:c711d7a7-6ea2-4261-b0bb-b42eac3f46af@c711.org
+
+URL:/united-states/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Existing Home Sales\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/existing-home-sales
+
+DTEND:20251120T160000Z
+
+DTSTART:20251120T150000Z
+
+SUMMARY:UNITED STATES - Existing Home Sales
+
+UID:5861f520-d67b-48d0-96e9-ed0089cbd225@5861.org
+
+URL:/united-states/existing-home-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate-mom
+
+DTEND:20250911T133000Z
+
+DTSTART:20250911T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate MoM
+
+UID:91f0c243-7864-4fc8-b83f-af80e6cb2bf8@91f0.org
+
+URL:/united-states/core-inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Existing Home Sales\n国家: united states\n实际值: \n前值: \n预期: \n预测: 3.9M\n详情: /united-states/existing-home-sales
+
+DTEND:20251023T150000Z
+
+DTSTART:20251023T140000Z
+
+SUMMARY:UNITED STATES - Existing Home Sales
+
+UID:e46018f2-5968-4728-8bfa-a337b3986016@e460.org
+
+URL:/united-states/existing-home-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Non Farm Payrolls\n国家: united states\n实际值: \n前值: 228K\n预期: \n预测: N/A\n详情: /united-states/non-farm-payrolls
+
+DTEND:20250502T133000Z
+
+DTSTART:20250502T123000Z
+
+SUMMARY:UNITED STATES - Non Farm Payrolls
+
+UID:e4830ccd-9a49-4170-afdb-e16f925b7fc9@e483.org
+
+URL:/united-states/non-farm-payrolls
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Existing Home Sales\n国家: united states\n实际值: \n前值: \n预期: \n预测: 4.0M\n详情: /united-states/existing-home-sales
+
+DTEND:20250723T150000Z
+
+DTSTART:20250723T140000Z
+
+SUMMARY:UNITED STATES - Existing Home Sales
+
+UID:f3705535-8073-402b-8699-169394482254@f370.org
+
+URL:/united-states/existing-home-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Michigan Consumer Sentiment Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/consumer-confidence
+
+DTEND:20250516T150000Z
+
+DTSTART:20250516T140000Z
+
+SUMMARY:UNITED STATES - Michigan Consumer Sentiment Prel
+
+UID:d154cff8-b5fa-4c95-8af3-f24f5d0314d1@d154.org
+
+URL:/united-states/consumer-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Spending MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.2%\n详情: /united-states/personal-spending
+
+DTEND:20250731T133000Z
+
+DTSTART:20250731T123000Z
+
+SUMMARY:UNITED STATES - Personal Spending MoM
+
+UID:55132675-3bdb-473e-8071-6cba4f24d149@5513.org
+
+URL:/united-states/personal-spending
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Building Permits Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/building-permits
+
+DTEND:20250516T133000Z
+
+DTSTART:20250516T123000Z
+
+SUMMARY:UNITED STATES - Building Permits Prel
+
+UID:9190dbef-751a-41fb-9c27-0bfa6282bb7e@9190.org
+
+URL:/united-states/building-permits
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Non Farm Payrolls\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/non-farm-payrolls
+
+DTEND:20250606T133000Z
+
+DTSTART:20250606T123000Z
+
+SUMMARY:UNITED STATES - Non Farm Payrolls
+
+UID:a0a56531-2106-4566-9115-7c27ca9a82c4@a0a5.org
+
+URL:/united-states/non-farm-payrolls
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Michigan Consumer Sentiment Prel\n国家: united states\n实际值: 50.8\n前值: 57.0\n预期: 54.5\n预测: 54.4\n详情: /united-states/consumer-confidence
+
+DTEND:20250411T150000Z
+
+DTSTART:20250411T140000Z
+
+SUMMARY:UNITED STATES - Michigan Consumer Sentiment Prel
+
+UID:2dc5db76-174a-4fff-a26f-4f11d00545bd@2dc5.org
+
+URL:/united-states/consumer-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Spending MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-spending
+
+DTEND:20251219T143000Z
+
+DTSTART:20251219T133000Z
+
+SUMMARY:UNITED STATES - Personal Spending MoM
+
+UID:5aeb2f65-c40e-4d0f-b2bf-ca02119eb726@5aeb.org
+
+URL:/united-states/personal-spending
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Building Permits Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/building-permits
+
+DTEND:20250618T133000Z
+
+DTSTART:20250618T123000Z
+
+SUMMARY:UNITED STATES - Building Permits Prel
+
+UID:49c24a4c-0ce2-4b42-b215-7d1354ddc030@49c2.org
+
+URL:/united-states/building-permits
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Unemployment Rate\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/unemployment-rate
+
+DTEND:20250502T133000Z
+
+DTSTART:20250502T123000Z
+
+SUMMARY:UNITED STATES - Unemployment Rate
+
+UID:f9440286-2a4a-40f0-99b1-6378d4908f07@f944.org
+
+URL:/united-states/unemployment-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Non Farm Payrolls\n国家: united states\n实际值: \n前值: \n预期: \n预测: 100.0K\n详情: /united-states/non-farm-payrolls
+
+DTEND:20250703T133000Z
+
+DTSTART:20250703T123000Z
+
+SUMMARY:UNITED STATES - Non Farm Payrolls
+
+UID:d6716234-e2b0-41e8-8e35-9e2642064fc1@d671.org
+
+URL:/united-states/non-farm-payrolls
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Housing Starts\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/housing-starts
+
+DTEND:20250917T133000Z
+
+DTSTART:20250917T123000Z
+
+SUMMARY:UNITED STATES - Housing Starts
+
+UID:fe48c874-47e3-4f1e-9e54-5540f058ca9b@fe48.org
+
+URL:/united-states/housing-starts
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: JOLTs Job Openings\n国家: united states\n实际值: \n前值: \n预期: \n预测: 7.1M\n详情: /united-states/job-offers
+
+DTEND:20250729T150000Z
+
+DTSTART:20250729T140000Z
+
+SUMMARY:UNITED STATES - JOLTs Job Openings
+
+UID:d8fd66bf-6df9-41fe-b6e6-29271b4c6dbf@d8fd.org
+
+URL:/united-states/job-offers
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate QoQ 2nd Est\n国家: united states\n实际值: \n前值: \n预期: \n预测: 1.9%\n详情: /united-states/gdp-growth
+
+DTEND:20250828T133000Z
+
+DTSTART:20250828T123000Z
+
+SUMMARY:UNITED STATES - GDP Growth Rate QoQ 2nd Est
+
+UID:d43642e3-71c0-4ec5-a5bb-dda2585cec16@d436.org
+
+URL:/united-states/gdp-growth
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Non Farm Payrolls\n国家: united states\n实际值: \n前值: \n预期: \n预测: 70.0K\n详情: /united-states/non-farm-payrolls
+
+DTEND:20251003T133000Z
+
+DTSTART:20251003T123000Z
+
+SUMMARY:UNITED STATES - Non Farm Payrolls
+
+UID:9bf6fec7-58ce-4a5b-9b04-cc34be2dacc3@9bf6.org
+
+URL:/united-states/non-farm-payrolls
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Housing Starts\n国家: united states\n实际值: \n前值: 1.501M\n预期: 1.42M\n预测: 1.42M\n详情: /united-states/housing-starts
+
+DTEND:20250417T133000Z
+
+DTSTART:20250417T123000Z
+
+SUMMARY:UNITED STATES - Housing Starts
+
+UID:2627686e-75d5-44cc-b56d-1c9c4e2d2dc6@2627.org
+
+URL:/united-states/housing-starts
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Michigan Consumer Sentiment Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/consumer-confidence
+
+DTEND:20251010T150000Z
+
+DTSTART:20251010T140000Z
+
+SUMMARY:UNITED STATES - Michigan Consumer Sentiment Prel
+
+UID:00e2d692-3101-4951-92a9-afeaeb546196@00e2.org
+
+URL:/united-states/consumer-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/inflation-rate-mom
+
+DTEND:20251113T143000Z
+
+DTSTART:20251113T133000Z
+
+SUMMARY:UNITED STATES - Inflation Rate MoM
+
+UID:14b01861-aabb-4cc4-90b8-5a667a55773b@14b0.org
+
+URL:/united-states/inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Existing Home Sales\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/existing-home-sales
+
+DTEND:20250522T150000Z
+
+DTSTART:20250522T140000Z
+
+SUMMARY:UNITED STATES - Existing Home Sales
+
+UID:35e6ced6-0baf-4d99-b691-789a9ca268aa@35e6.org
+
+URL:/united-states/existing-home-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate QoQ Adv\n国家: united states\n实际值: \n前值: \n预期: \n预测: 1.5%\n详情: /united-states/gdp-growth
+
+DTEND:20251030T133000Z
+
+DTSTART:20251030T123000Z
+
+SUMMARY:UNITED STATES - GDP Growth Rate QoQ Adv
+
+UID:11627a89-d309-4bbf-9682-2768f874528f@1162.org
+
+URL:/united-states/gdp-growth
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate QoQ 2nd Est\n国家: united states\n实际值: \n前值: \n预期: \n预测: 1.5%\n详情: /united-states/gdp-growth
+
+DTEND:20251126T143000Z
+
+DTSTART:20251126T133000Z
+
+SUMMARY:UNITED STATES - GDP Growth Rate QoQ 2nd Est
+
+UID:c1c42dd1-e46b-480f-a80e-16627cf89374@c1c4.org
+
+URL:/united-states/gdp-growth
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Income MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.3%\n详情: /united-states/personal-income
+
+DTEND:20250430T133000Z
+
+DTSTART:20250430T123000Z
+
+SUMMARY:UNITED STATES - Personal Income MoM
+
+UID:91a543a4-7992-452a-93e1-b8e8b3dd0812@91a5.org
+
+URL:/united-states/personal-income
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate
+
+DTEND:20250812T133000Z
+
+DTSTART:20250812T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate YoY
+
+UID:1867233a-092e-4046-b568-d7239ade3a36@1867.org
+
+URL:/united-states/core-inflation-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core PCE Price Index MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.1%\n详情: /united-states/core-pce-price-index-mom
+
+DTEND:20250731T133000Z
+
+DTSTART:20250731T123000Z
+
+SUMMARY:UNITED STATES - Core PCE Price Index MoM
+
+UID:fb71817a-67e0-4f22-99f8-621e7b85c7bd@fb71.org
+
+URL:/united-states/core-pce-price-index-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Housing Starts\n国家: united states\n实际值: \n前值: \n预期: \n预测: 1.44M\n详情: /united-states/housing-starts
+
+DTEND:20251017T133000Z
+
+DTSTART:20251017T123000Z
+
+SUMMARY:UNITED STATES - Housing Starts
+
+UID:39a4ac23-ecf7-4d51-a85d-d37ca69f6a8d@39a4.org
+
+URL:/united-states/housing-starts
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: FOMC Minutes\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250709T190000Z
+
+DTSTART:20250709T180000Z
+
+SUMMARY:UNITED STATES - FOMC Minutes
+
+UID:fefaa0c6-aafb-48e1-8072-6539a63c9b44@fefa.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Manufacturing PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/business-confidence
+
+DTEND:20251201T160000Z
+
+DTSTART:20251201T150000Z
+
+SUMMARY:UNITED STATES - ISM Manufacturing PMI
+
+UID:1c85402c-9616-470c-9bb3-7a992fb9eea9@1c85.org
+
+URL:/united-states/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Interest Rate Decision\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250618T190000Z
+
+DTSTART:20250618T180000Z
+
+SUMMARY:UNITED STATES - Fed Interest Rate Decision
+
+UID:6c5443a2-11b0-4be6-a137-c71ae9808bc1@6c54.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Non Farm Payrolls\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/non-farm-payrolls
+
+DTEND:20250905T133000Z
+
+DTSTART:20250905T123000Z
+
+SUMMARY:UNITED STATES - Non Farm Payrolls
+
+UID:72dc6f89-357c-451c-9308-c62bc4a22abf@72dc.org
+
+URL:/united-states/non-farm-payrolls
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Existing Home Sales\n国家: united states\n实际值: \n前值: 4.26M\n预期: \n预测: 4.38M\n详情: /united-states/existing-home-sales
+
+DTEND:20250424T150000Z
+
+DTSTART:20250424T140000Z
+
+SUMMARY:UNITED STATES - Existing Home Sales
+
+UID:7aec5a82-6b75-4850-a2ba-398a3bc89506@7aec.org
+
+URL:/united-states/existing-home-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Michigan Consumer Sentiment Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: 69\n详情: /united-states/consumer-confidence
+
+DTEND:20250912T150000Z
+
+DTSTART:20250912T140000Z
+
+SUMMARY:UNITED STATES - Michigan Consumer Sentiment Prel
+
+UID:0e18d52f-8878-4983-af97-46622ec27156@0e18.org
+
+URL:/united-states/consumer-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: JOLTs Job Openings\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/job-offers
+
+DTEND:20250603T150000Z
+
+DTSTART:20250603T140000Z
+
+SUMMARY:UNITED STATES - JOLTs Job Openings
+
+UID:8ce6df0d-e9d4-415d-aa7c-6de85bc35e7d@8ce6.org
+
+URL:/united-states/job-offers
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/inflation-cpi
+
+DTEND:20250911T133000Z
+
+DTSTART:20250911T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate YoY
+
+UID:0b4d8bf4-73e6-4921-a82f-a8303a791eb5@0b4d.org
+
+URL:/united-states/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Manufacturing PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/business-confidence
+
+DTEND:20251103T150000Z
+
+DTSTART:20251103T140000Z
+
+SUMMARY:UNITED STATES - ISM Manufacturing PMI
+
+UID:60977a69-d698-4af4-ae85-3b3c894d7a81@6097.org
+
+URL:/united-states/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: PPI MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/producer-price-inflation-mom
+
+DTEND:20250612T133000Z
+
+DTSTART:20250612T123000Z
+
+SUMMARY:UNITED STATES - PPI MoM
+
+UID:b76d94f0-5832-47dc-9a5a-65bf71d89f06@b76d.org
+
+URL:/united-states/producer-price-inflation-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Unemployment Rate\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/unemployment-rate
+
+DTEND:20251107T143000Z
+
+DTSTART:20251107T133000Z
+
+SUMMARY:UNITED STATES - Unemployment Rate
+
+UID:fbdd70af-dae4-45a3-8a5f-a141a5e4be73@fbdd.org
+
+URL:/united-states/unemployment-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Housing Starts\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/housing-starts
+
+DTEND:20251119T143000Z
+
+DTSTART:20251119T133000Z
+
+SUMMARY:UNITED STATES - Housing Starts
+
+UID:485dc6d0-b4d8-4226-8037-826b43f46fc9@485d.org
+
+URL:/united-states/housing-starts
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/retail-sales
+
+DTEND:20250617T133000Z
+
+DTSTART:20250617T123000Z
+
+SUMMARY:UNITED STATES - Retail Sales MoM
+
+UID:15a54369-bbd6-4f00-b1e0-4e2af125e72f@15a5.org
+
+URL:/united-states/retail-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate MoM\n国家: united states\n实际值: \n前值: -0.1%\n预期: \n预测: N/A\n详情: /united-states/inflation-rate-mom
+
+DTEND:20250513T133000Z
+
+DTSTART:20250513T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate MoM
+
+UID:57f1b9c1-f7e4-48ee-b4f3-3a7fe64ed2c7@57f1.org
+
+URL:/united-states/inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Manufacturing PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: 52\n详情: /united-states/business-confidence
+
+DTEND:20251001T150000Z
+
+DTSTART:20251001T140000Z
+
+SUMMARY:UNITED STATES - ISM Manufacturing PMI
+
+UID:b3d5fa1c-0f56-4e1f-b053-a11c6b9911be@b3d5.org
+
+URL:/united-states/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Non Farm Payrolls\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/non-farm-payrolls
+
+DTEND:20251107T143000Z
+
+DTSTART:20251107T133000Z
+
+SUMMARY:UNITED STATES - Non Farm Payrolls
+
+UID:f072e951-619b-4b6a-8f22-5dadd4a976e1@f072.org
+
+URL:/united-states/non-farm-payrolls
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: FOMC Minutes\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20251230T200000Z
+
+DTSTART:20251230T190000Z
+
+SUMMARY:UNITED STATES - FOMC Minutes
+
+UID:ef8c59b4-870e-4cdf-a29c-eddd01976a44@ef8c.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: 3.0%\n详情: /united-states/inflation-cpi
+
+DTEND:20250715T133000Z
+
+DTSTART:20250715T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate YoY
+
+UID:74191ed3-f5bd-4dbe-99ff-2dd7595f48df@7419.org
+
+URL:/united-states/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Income MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-income
+
+DTEND:20250627T133000Z
+
+DTSTART:20250627T123000Z
+
+SUMMARY:UNITED STATES - Personal Income MoM
+
+UID:2681371a-399c-4ab0-aa21-6c5a5e2953e4@2681.org
+
+URL:/united-states/personal-income
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: FOMC Minutes\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20251119T200000Z
+
+DTSTART:20251119T190000Z
+
+SUMMARY:UNITED STATES - FOMC Minutes
+
+UID:7d4f2749-c2b5-4eb4-b2b0-033206b8cc22@7d4f.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Durable Goods Orders MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: -1.2%\n详情: /united-states/durable-goods-orders
+
+DTEND:20251027T133000Z
+
+DTSTART:20251027T123000Z
+
+SUMMARY:UNITED STATES - Durable Goods Orders MoM
+
+UID:a8da346b-1f8e-40e4-9b10-254bfaa3aed0@a8da.org
+
+URL:/united-states/durable-goods-orders
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Spending MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.3%\n详情: /united-states/personal-spending
+
+DTEND:20250430T133000Z
+
+DTSTART:20250430T123000Z
+
+SUMMARY:UNITED STATES - Personal Spending MoM
+
+UID:cfee9b9b-eeae-48e7-a1ee-e73104bcc18f@cfee.org
+
+URL:/united-states/personal-spending
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Income MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-income
+
+DTEND:20250530T133000Z
+
+DTSTART:20250530T123000Z
+
+SUMMARY:UNITED STATES - Personal Income MoM
+
+UID:c5446929-65ea-4f74-bce2-2ea47a89e47a@c544.org
+
+URL:/united-states/personal-income
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.3%\n详情: /united-states/inflation-rate-mom
+
+DTEND:20250715T133000Z
+
+DTSTART:20250715T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate MoM
+
+UID:e5662c21-bb0d-486d-8454-05b713e26635@e566.org
+
+URL:/united-states/inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Manufacturing PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: 51\n详情: /united-states/business-confidence
+
+DTEND:20250701T150000Z
+
+DTSTART:20250701T140000Z
+
+SUMMARY:UNITED STATES - ISM Manufacturing PMI
+
+UID:fa5e3bdd-0ccb-4b49-a7fb-3096ba6d6942@fa5e.org
+
+URL:/united-states/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Durable Goods Orders MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 2.4%\n详情: /united-states/durable-goods-orders
+
+DTEND:20250725T133000Z
+
+DTSTART:20250725T123000Z
+
+SUMMARY:UNITED STATES - Durable Goods Orders MoM
+
+UID:8cb3699c-d529-44c0-8e3a-c11892372344@8cb3.org
+
+URL:/united-states/durable-goods-orders
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: FOMC Economic Projections\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20251210T200000Z
+
+DTSTART:20251210T190000Z
+
+SUMMARY:UNITED STATES - FOMC Economic Projections
+
+UID:6a36c84a-96c0-4fd8-bd71-1498a3315bca@6a36.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Durable Goods Orders MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/durable-goods-orders
+
+DTEND:20250826T133000Z
+
+DTSTART:20250826T123000Z
+
+SUMMARY:UNITED STATES - Durable Goods Orders MoM
+
+UID:0f56482c-33f2-48cd-a5e5-ce4369a968dd@0f56.org
+
+URL:/united-states/durable-goods-orders
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Services PMI\n国家: united states\n实际值: \n前值: 50.8\n预期: \n预测: N/A\n详情: /united-states/non-manufacturing-pmi
+
+DTEND:20250505T150000Z
+
+DTSTART:20250505T140000Z
+
+SUMMARY:UNITED STATES - ISM Services PMI
+
+UID:7973d422-b716-464d-853a-c23d0fd9ac07@7973.org
+
+URL:/united-states/non-manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate-mom
+
+DTEND:20250611T133000Z
+
+DTSTART:20250611T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate MoM
+
+UID:6e873a9a-cdf7-4472-ba36-5a3bfc1f966e@6e87.org
+
+URL:/united-states/core-inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Non Farm Payrolls\n国家: united states\n实际值: 228K\n前值: 117K\n预期: 135K\n预测: 100.0K\n详情: /united-states/non-farm-payrolls
+
+DTEND:20250404T133000Z
+
+DTSTART:20250404T123000Z
+
+SUMMARY:UNITED STATES - Non Farm Payrolls
+
+UID:c14e61a4-b292-4632-8094-b07541c597d1@c14e.org
+
+URL:/united-states/non-farm-payrolls
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Services PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/non-manufacturing-pmi
+
+DTEND:20250604T150000Z
+
+DTSTART:20250604T140000Z
+
+SUMMARY:UNITED STATES - ISM Services PMI
+
+UID:4dc0f2cc-2d54-479d-aa8b-84fd4199d11e@4dc0.org
+
+URL:/united-states/non-manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: 3.2%\n详情: /united-states/inflation-cpi
+
+DTEND:20251015T133000Z
+
+DTSTART:20251015T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate YoY
+
+UID:33ade5d7-626f-4d64-8b2d-35c1ee221643@33ad.org
+
+URL:/united-states/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Building Permits Prel\n国家: united states\n实际值: \n前值: 1.459M\n预期: 1.45M\n预测: 1.4M\n详情: /united-states/building-permits
+
+DTEND:20250417T133000Z
+
+DTSTART:20250417T123000Z
+
+SUMMARY:UNITED STATES - Building Permits Prel
+
+UID:138c95de-7639-4098-82fe-0f6e066057dc@138c.org
+
+URL:/united-states/building-permits
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Press Conference\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250730T193000Z
+
+DTSTART:20250730T183000Z
+
+SUMMARY:UNITED STATES - Fed Press Conference
+
+UID:7a482b9d-e792-4a06-92fd-0a1070ca5a21@7a48.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Manufacturing PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/business-confidence
+
+DTEND:20250801T150000Z
+
+DTSTART:20250801T140000Z
+
+SUMMARY:UNITED STATES - ISM Manufacturing PMI
+
+UID:546853f0-925a-42cf-b480-4ac65c77bdd0@5468.org
+
+URL:/united-states/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/inflation-cpi
+
+DTEND:20250812T133000Z
+
+DTSTART:20250812T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate YoY
+
+UID:49903d14-f9c2-4bdc-b0d0-604fc7ec8bbf@4990.org
+
+URL:/united-states/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate-mom
+
+DTEND:20251113T143000Z
+
+DTSTART:20251113T133000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate MoM
+
+UID:0cdc2d52-1229-422c-b89f-8fab697ca563@0cdc.org
+
+URL:/united-states/core-inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: FOMC Minutes\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250409T190000Z
+
+DTSTART:20250409T180000Z
+
+SUMMARY:UNITED STATES - FOMC Minutes
+
+UID:8ddac8c2-8f28-4597-9f98-3d846797733c@8dda.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Existing Home Sales\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/existing-home-sales
+
+DTEND:20250821T150000Z
+
+DTSTART:20250821T140000Z
+
+SUMMARY:UNITED STATES - Existing Home Sales
+
+UID:97cddf35-b2fa-4820-b038-28510d324ba8@97cd.org
+
+URL:/united-states/existing-home-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Michigan Consumer Sentiment Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/consumer-confidence
+
+DTEND:20250815T150000Z
+
+DTSTART:20250815T140000Z
+
+SUMMARY:UNITED STATES - Michigan Consumer Sentiment Prel
+
+UID:d7b19273-edac-4628-b2f0-b8759ed7650a@d7b1.org
+
+URL:/united-states/consumer-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/inflation-rate-mom
+
+DTEND:20250911T133000Z
+
+DTSTART:20250911T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate MoM
+
+UID:d8ad4a64-0c1c-4970-86ca-0f2e4c998690@d8ad.org
+
+URL:/united-states/inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Building Permits Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: 1.47M\n详情: /united-states/building-permits
+
+DTEND:20250718T133000Z
+
+DTSTART:20250718T123000Z
+
+SUMMARY:UNITED STATES - Building Permits Prel
+
+UID:fc2c8f68-d7e9-493a-9682-ce76a27d68e7@fc2c.org
+
+URL:/united-states/building-permits
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate QoQ Adv\n国家: united states\n实际值: \n前值: \n预期: \n预测: 1.9%\n详情: /united-states/gdp-growth
+
+DTEND:20250730T133000Z
+
+DTSTART:20250730T123000Z
+
+SUMMARY:UNITED STATES - GDP Growth Rate QoQ Adv
+
+UID:614d1359-2856-4c2b-9cf8-82dcde66175c@614d.org
+
+URL:/united-states/gdp-growth
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: PPI MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.5%\n详情: /united-states/producer-price-inflation-mom
+
+DTEND:20251016T133000Z
+
+DTSTART:20251016T123000Z
+
+SUMMARY:UNITED STATES - PPI MoM
+
+UID:a6fda027-f8d9-45e4-ab01-13ba729fdad2@a6fd.org
+
+URL:/united-states/producer-price-inflation-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: JOLTs Job Openings\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/job-offers
+
+DTEND:20251202T160000Z
+
+DTSTART:20251202T150000Z
+
+SUMMARY:UNITED STATES - JOLTs Job Openings
+
+UID:f8b83f7f-21c2-4658-b701-67f127c5b04f@f8b8.org
+
+URL:/united-states/job-offers
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Building Permits Prel\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/building-permits
+
+DTEND:20251119T143000Z
+
+DTSTART:20251119T133000Z
+
+SUMMARY:UNITED STATES - Building Permits Prel
+
+UID:166100dd-1d89-4623-b626-d40523857986@1661.org
+
+URL:/united-states/building-permits
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Durable Goods Orders MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/durable-goods-orders
+
+DTEND:20251126T143000Z
+
+DTSTART:20251126T133000Z
+
+SUMMARY:UNITED STATES - Durable Goods Orders MoM
+
+UID:0cb5995d-f8d6-4741-a3b5-b20352b6f876@0cb5.org
+
+URL:/united-states/durable-goods-orders
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Press Conference\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250917T193000Z
+
+DTSTART:20250917T183000Z
+
+SUMMARY:UNITED STATES - Fed Press Conference
+
+UID:dae3921f-1770-4fa9-b752-83981cdf0ef9@dae3.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: GDP Growth Rate QoQ Final\n国家: united states\n实际值: \n前值: \n预期: \n预测: 1.9%\n详情: /united-states/gdp-growth
+
+DTEND:20250925T133000Z
+
+DTSTART:20250925T123000Z
+
+SUMMARY:UNITED STATES - GDP Growth Rate QoQ Final
+
+UID:b8951453-d7ce-4dd1-8d3c-b12469372f5e@b895.org
+
+URL:/united-states/gdp-growth
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Durable Goods Orders MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/durable-goods-orders
+
+DTEND:20250925T133000Z
+
+DTSTART:20250925T123000Z
+
+SUMMARY:UNITED STATES - Durable Goods Orders MoM
+
+UID:c52be776-c963-4c8d-aeab-9abab0548959@c52b.org
+
+URL:/united-states/durable-goods-orders
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Housing Starts\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/housing-starts
+
+DTEND:20251216T143000Z
+
+DTSTART:20251216T133000Z
+
+SUMMARY:UNITED STATES - Housing Starts
+
+UID:8879e188-fed7-4c5b-aadd-6fa6c46f5f46@8879.org
+
+URL:/united-states/housing-starts
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Services PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: 53\n详情: /united-states/non-manufacturing-pmi
+
+DTEND:20250703T150000Z
+
+DTSTART:20250703T140000Z
+
+SUMMARY:UNITED STATES - ISM Services PMI
+
+UID:2ec77236-573e-4c31-a934-9a23457dacc0@2ec7.org
+
+URL:/united-states/non-manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.2%\n详情: /united-states/core-inflation-rate-mom
+
+DTEND:20250715T133000Z
+
+DTSTART:20250715T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate MoM
+
+UID:33ccd000-a901-44c8-a180-f3844091867d@33cc.org
+
+URL:/united-states/core-inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Income MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-income
+
+DTEND:20250829T133000Z
+
+DTSTART:20250829T123000Z
+
+SUMMARY:UNITED STATES - Personal Income MoM
+
+UID:14f6a434-d041-440f-8433-f479a57d8634@14f6.org
+
+URL:/united-states/personal-income
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: PPI MoM\n国家: united states\n实际值: -0.4%\n前值: 0.1%\n预期: 0.2%\n预测: 0.1%\n详情: /united-states/producer-price-inflation-mom
+
+DTEND:20250411T133000Z
+
+DTSTART:20250411T123000Z
+
+SUMMARY:UNITED STATES - PPI MoM
+
+UID:9854f2b1-28a0-4a3b-9127-5d909e284c98@9854.org
+
+URL:/united-states/producer-price-inflation-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Chair Powell Speech\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250416T183000Z
+
+DTSTART:20250416T173000Z
+
+SUMMARY:UNITED STATES - Fed Chair Powell Speech
+
+UID:2dc0df7b-d43c-44df-8dd7-4be4f7c40120@2dc0.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/retail-sales
+
+DTEND:20250916T133000Z
+
+DTSTART:20250916T123000Z
+
+SUMMARY:UNITED STATES - Retail Sales MoM
+
+UID:e2deb4bc-b1d4-4c6b-ab19-e51897620e93@e2de.org
+
+URL:/united-states/retail-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: JOLTs Job Openings\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/job-offers
+
+DTEND:20250903T150000Z
+
+DTSTART:20250903T140000Z
+
+SUMMARY:UNITED STATES - JOLTs Job Openings
+
+UID:0d6a65c3-4ee4-44a7-a4dc-a885a6a3dcd5@0d6a.org
+
+URL:/united-states/job-offers
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate
+
+DTEND:20250611T133000Z
+
+DTSTART:20250611T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate YoY
+
+UID:5a09c1d1-6ba6-4ea0-b3ad-73b4e60eccba@5a09.org
+
+URL:/united-states/core-inflation-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Non Farm Payrolls\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/non-farm-payrolls
+
+DTEND:20250801T133000Z
+
+DTSTART:20250801T123000Z
+
+SUMMARY:UNITED STATES - Non Farm Payrolls
+
+UID:3855fb22-63a9-40f5-8e6e-a3e933826843@3855.org
+
+URL:/united-states/non-farm-payrolls
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Unemployment Rate\n国家: united states\n实际值: 4.2%\n前值: 4.1%\n预期: 4.1%\n预测: 4.2%\n详情: /united-states/unemployment-rate
+
+DTEND:20250404T133000Z
+
+DTSTART:20250404T123000Z
+
+SUMMARY:UNITED STATES - Unemployment Rate
+
+UID:6b6bf956-46ad-4b5b-954f-c6427986acbc@6b6b.org
+
+URL:/united-states/unemployment-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: JOLTs Job Openings\n国家: united states\n实际值: 7.568M\n前值: 7.762M\n预期: 7.63M\n预测: 7.6M\n详情: /united-states/job-offers
+
+DTEND:20250401T150000Z
+
+DTSTART:20250401T140000Z
+
+SUMMARY:UNITED STATES - JOLTs Job Openings
+
+UID:3c483c04-32f8-4399-9cd6-c9d9f9248438@3c48.org
+
+URL:/united-states/job-offers
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Press Conference\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250618T193000Z
+
+DTSTART:20250618T183000Z
+
+SUMMARY:UNITED STATES - Fed Press Conference
+
+UID:71fa1842-7888-4079-ac31-5e8f81a63622@71fa.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Services PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/non-manufacturing-pmi
+
+DTEND:20251105T160000Z
+
+DTSTART:20251105T150000Z
+
+SUMMARY:UNITED STATES - ISM Services PMI
+
+UID:54b380db-b821-4d13-9b33-08733571952d@54b3.org
+
+URL:/united-states/non-manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core PCE Price Index MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-pce-price-index-mom
+
+DTEND:20251219T143000Z
+
+DTSTART:20251219T133000Z
+
+SUMMARY:UNITED STATES - Core PCE Price Index MoM
+
+UID:a250a5fe-f338-482a-b54c-062d002b231b@a250.org
+
+URL:/united-states/core-pce-price-index-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Manufacturing PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/business-confidence
+
+DTEND:20250902T150000Z
+
+DTSTART:20250902T140000Z
+
+SUMMARY:UNITED STATES - ISM Manufacturing PMI
+
+UID:49fc6a6c-c755-4ed3-b572-e869b631d717@49fc.org
+
+URL:/united-states/business-confidence
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Income MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-income
+
+DTEND:20251219T143000Z
+
+DTSTART:20251219T133000Z
+
+SUMMARY:UNITED STATES - Personal Income MoM
+
+UID:1786220a-13f4-4d7b-9b1a-b39321f1da59@1786.org
+
+URL:/united-states/personal-income
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Services PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: 51\n详情: /united-states/non-manufacturing-pmi
+
+DTEND:20251003T150000Z
+
+DTSTART:20251003T140000Z
+
+SUMMARY:UNITED STATES - ISM Services PMI
+
+UID:58929c51-e6bc-4c33-a41f-2745a224f90f@5892.org
+
+URL:/united-states/non-manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Unemployment Rate\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/unemployment-rate
+
+DTEND:20250606T133000Z
+
+DTSTART:20250606T123000Z
+
+SUMMARY:UNITED STATES - Unemployment Rate
+
+UID:7ffae016-0cf0-44e1-a119-f696924c21be@7ffa.org
+
+URL:/united-states/unemployment-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core PCE Price Index MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-pce-price-index-mom
+
+DTEND:20250627T133000Z
+
+DTSTART:20250627T123000Z
+
+SUMMARY:UNITED STATES - Core PCE Price Index MoM
+
+UID:54457c4b-4b18-426b-b3cf-eaf417e55468@5445.org
+
+URL:/united-states/core-pce-price-index-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Existing Home Sales\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/existing-home-sales
+
+DTEND:20250623T150000Z
+
+DTSTART:20250623T140000Z
+
+SUMMARY:UNITED STATES - Existing Home Sales
+
+UID:be4e90b3-af48-4ff1-b8df-4ae41387ed29@be4e.org
+
+URL:/united-states/existing-home-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: PPI MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/producer-price-inflation-mom
+
+DTEND:20250814T133000Z
+
+DTSTART:20250814T123000Z
+
+SUMMARY:UNITED STATES - PPI MoM
+
+UID:00cfc840-cbe2-4d08-b775-19b046b7ed43@00cf.org
+
+URL:/united-states/producer-price-inflation-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Existing Home Sales\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/existing-home-sales
+
+DTEND:20251219T160000Z
+
+DTSTART:20251219T150000Z
+
+SUMMARY:UNITED STATES - Existing Home Sales
+
+UID:cace940a-c6d1-423f-9b2f-5f5dcf90559e@cace.org
+
+URL:/united-states/existing-home-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: FOMC Economic Projections\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20250917T190000Z
+
+DTSTART:20250917T180000Z
+
+SUMMARY:UNITED STATES - FOMC Economic Projections
+
+UID:c7bce15f-ae81-4fcd-99ff-428750ca4634@c7bc.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Services PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/non-manufacturing-pmi
+
+DTEND:20251203T160000Z
+
+DTSTART:20251203T150000Z
+
+SUMMARY:UNITED STATES - ISM Services PMI
+
+UID:30e70407-f53d-4f4c-87ee-7b2cb575f1a7@30e7.org
+
+URL:/united-states/non-manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/inflation-rate-mom
+
+DTEND:20251210T143000Z
+
+DTSTART:20251210T133000Z
+
+SUMMARY:UNITED STATES - Inflation Rate MoM
+
+UID:e936f882-cdd3-4240-b37a-af5fc5bf6310@e936.org
+
+URL:/united-states/inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-inflation-rate-mom
+
+DTEND:20250812T133000Z
+
+DTSTART:20250812T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate MoM
+
+UID:5af2c14f-a49c-40da-a8d7-23c2e187646c@5af2.org
+
+URL:/united-states/core-inflation-rate-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core PCE Price Index MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-pce-price-index-mom
+
+DTEND:20250926T133000Z
+
+DTSTART:20250926T123000Z
+
+SUMMARY:UNITED STATES - Core PCE Price Index MoM
+
+UID:75f1a49d-0307-42fb-af0e-45e918179ed1@75f1.org
+
+URL:/united-states/core-pce-price-index-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: 2.8%\n详情: /united-states/core-inflation-rate
+
+DTEND:20250715T133000Z
+
+DTSTART:20250715T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate YoY
+
+UID:7255588a-ea29-4c52-a297-021c78b34859@7255.org
+
+URL:/united-states/core-inflation-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Inflation Rate YoY\n国家: united states\n实际值: \n前值: 2.4%\n预期: \n预测: 2.7%\n详情: /united-states/inflation-cpi
+
+DTEND:20250513T133000Z
+
+DTSTART:20250513T123000Z
+
+SUMMARY:UNITED STATES - Inflation Rate YoY
+
+UID:0a1f3eb6-13db-4771-aaa7-bcc8b5e76a86@0a1f.org
+
+URL:/united-states/inflation-cpi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Durable Goods Orders MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/durable-goods-orders
+
+DTEND:20251224T143000Z
+
+DTSTART:20251224T133000Z
+
+SUMMARY:UNITED STATES - Durable Goods Orders MoM
+
+UID:d951db96-7a58-4556-b9f8-241df5594d91@d951.org
+
+URL:/united-states/durable-goods-orders
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Housing Starts\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/housing-starts
+
+DTEND:20250618T133000Z
+
+DTSTART:20250618T123000Z
+
+SUMMARY:UNITED STATES - Housing Starts
+
+UID:b6e67998-cfd5-4bfe-9c95-03ea497fce2e@b6e6.org
+
+URL:/united-states/housing-starts
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Press Conference\n国家: united states\n实际值: \n前值: \n预期: N/A\n预测: N/A\n详情: /united-states/interest-rate
+
+DTEND:20251029T193000Z
+
+DTSTART:20251029T183000Z
+
+SUMMARY:UNITED STATES - Fed Press Conference
+
+UID:edd3b00a-ed9b-419e-8c85-9048eadc24cf@edd3.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Housing Starts\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/housing-starts
+
+DTEND:20250516T133000Z
+
+DTSTART:20250516T123000Z
+
+SUMMARY:UNITED STATES - Housing Starts
+
+UID:cda68224-fd0d-4bdf-96c3-06d0e28f596f@cda6.org
+
+URL:/united-states/housing-starts
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: PPI MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/producer-price-inflation-mom
+
+DTEND:20250910T133000Z
+
+DTSTART:20250910T123000Z
+
+SUMMARY:UNITED STATES - PPI MoM
+
+UID:3828dd10-db44-4104-8567-ef9e3d9d5bc8@3828.org
+
+URL:/united-states/producer-price-inflation-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/retail-sales
+
+DTEND:20251217T143000Z
+
+DTSTART:20251217T133000Z
+
+SUMMARY:UNITED STATES - Retail Sales MoM
+
+UID:b914005c-9792-45b9-8413-906d12238407@b914.org
+
+URL:/united-states/retail-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Income MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.2%\n详情: /united-states/personal-income
+
+DTEND:20250731T133000Z
+
+DTSTART:20250731T123000Z
+
+SUMMARY:UNITED STATES - Personal Income MoM
+
+UID:4af23e27-390d-4a3f-9951-598c6edbf23f@4af2.org
+
+URL:/united-states/personal-income
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core Inflation Rate YoY\n国家: united states\n实际值: \n前值: \n预期: \n预测: 2.9%\n详情: /united-states/core-inflation-rate
+
+DTEND:20251015T133000Z
+
+DTSTART:20251015T123000Z
+
+SUMMARY:UNITED STATES - Core Inflation Rate YoY
+
+UID:9a3a8fcc-1aa6-42b9-8b78-4b9e6fff5ee5@9a3a.org
+
+URL:/united-states/core-inflation-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Services PMI\n国家: united states\n实际值: 50.8\n前值: 53.5\n预期: 53\n预测: 53\n详情: /united-states/non-manufacturing-pmi
+
+DTEND:20250403T150000Z
+
+DTSTART:20250403T140000Z
+
+SUMMARY:UNITED STATES - ISM Services PMI
+
+UID:11fb0b2d-e6e4-4397-bcb7-7094e13b4267@11fb.org
+
+URL:/united-states/non-manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core PCE Price Index MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/core-pce-price-index-mom
+
+DTEND:20250829T133000Z
+
+DTSTART:20250829T123000Z
+
+SUMMARY:UNITED STATES - Core PCE Price Index MoM
+
+UID:ce88d1b1-2726-471d-afa4-95d1b672c368@ce88.org
+
+URL:/united-states/core-pce-price-index-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Unemployment Rate\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/unemployment-rate
+
+DTEND:20250905T133000Z
+
+DTSTART:20250905T123000Z
+
+SUMMARY:UNITED STATES - Unemployment Rate
+
+UID:16033268-975b-45d4-a2fb-41312d39328b@1603.org
+
+URL:/united-states/unemployment-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: ISM Services PMI\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/non-manufacturing-pmi
+
+DTEND:20250805T150000Z
+
+DTSTART:20250805T140000Z
+
+SUMMARY:UNITED STATES - ISM Services PMI
+
+UID:87fc0742-2389-494d-9ef8-2c2ac988fc1c@87fc.org
+
+URL:/united-states/non-manufacturing-pmi
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: PPI MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/producer-price-inflation-mom
+
+DTEND:20251114T143000Z
+
+DTSTART:20251114T133000Z
+
+SUMMARY:UNITED STATES - PPI MoM
+
+UID:88daaa64-a90a-4321-bdc8-37805749ba6f@88da.org
+
+URL:/united-states/producer-price-inflation-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Spending MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-spending
+
+DTEND:20250829T133000Z
+
+DTSTART:20250829T123000Z
+
+SUMMARY:UNITED STATES - Personal Spending MoM
+
+UID:b6f5824b-a332-4cd1-9cee-35523112d8a4@b6f5.org
+
+URL:/united-states/personal-spending
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Fed Interest Rate Decision\n国家: united states\n实际值: \n前值: 4.5%\n预期: \n预测: 4.5%\n详情: /united-states/interest-rate
+
+DTEND:20250507T190000Z
+
+DTSTART:20250507T180000Z
+
+SUMMARY:UNITED STATES - Fed Interest Rate Decision
+
+UID:0246fe00-b854-4ebb-90d4-604dddc1061e@0246.org
+
+URL:/united-states/interest-rate
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Core PCE Price Index MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: 0.2%\n详情: /united-states/core-pce-price-index-mom
+
+DTEND:20250430T133000Z
+
+DTSTART:20250430T123000Z
+
+SUMMARY:UNITED STATES - Core PCE Price Index MoM
+
+UID:62d169dc-12d8-4b25-951d-ebdcab730ded@62d1.org
+
+URL:/united-states/core-pce-price-index-mom
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Retail Sales MoM\n国家: united states\n实际值: \n前值: 0.2%\n预期: 1.3%\n预测: 1.1%\n详情: /united-states/retail-sales
+
+DTEND:20250416T133000Z
+
+DTSTART:20250416T123000Z
+
+SUMMARY:UNITED STATES - Retail Sales MoM
+
+UID:a81a7d41-8f15-46b2-bf00-86e445503249@a81a.org
+
+URL:/united-states/retail-sales
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+DESCRIPTION:事件: Personal Spending MoM\n国家: united states\n实际值: \n前值: \n预期: \n预测: N/A\n详情: /united-states/personal-spending
+
+DTEND:20250530T133000Z
+
+DTSTART:20250530T123000Z
+
+SUMMARY:UNITED STATES - Personal Spending MoM
+
+UID:fec68e40-030d-49ed-9bc6-d63d49f8d8da@fec6.org
+
+URL:/united-states/personal-spending
+
+END:VEVENT
+
+END:VCALENDAR
